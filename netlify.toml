@@ -1,0 +1,8 @@
+[build]
+publish = "public"
+command = "hugo --gc --minify -b ${URL}"
+
+[build.environment]
+HUGO_VERSION = "0.147.9"
+
+# v1.0.0 占位：上游重定向规则已移除，v1.0.0 不走 netlify 部署

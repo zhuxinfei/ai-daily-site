@@ -1,0 +1,123 @@
+# Hugo configuration file
+baseURL: https://ylzsdafei.github.io/ai-daily-site/
+title: AI 日报
+
+timezone: Asia/Shanghai
+enableRobotsTXT: true
+enableGitInfo: true
+enableEmoji: true
+hasCJKLanguage: true
+enableInlineShortcodes: true
+
+outputs:
+  home: [html]
+  page: [html]
+  section: [html, rss]
+
+# import hextra as module
+module:
+  imports:
+    - path: github.com/imfing/hextra
+
+markup:
+  # allow raw html
+  goldmark:
+    renderer:
+      unsafe: true
+
+  # enable hextra syntax highlight
+  highlight:
+    noClasses: false
+
+menu:
+  main:
+    - identifier: search
+      name: 搜索
+      weight: 10
+      params:
+        type: search
+    - identifier: documentation
+      name: AI资讯日报
+      pageRef: /
+      weight: 1
+    - identifier: weekly
+      name: AI周报
+      pageRef: /blog/weekly
+      weight: 2
+
+params:
+  description: briefing-v3 自动生成的 AI 行业日报
+  descriptionEn: Auto-generated AI industry briefing by briefing-v3
+  logo: "images/logo-dark.png"
+
+  author:
+    name: "AI 日报"
+    bio: ""
+    email: ""
+    website: ""
+    social: []
+
+  publisher:
+    type: "Organization"
+    name: "AI 日报"
+    url: ""
+    sameAs: []
+      
+  displayUpdatedDate: false
+  dateFormat: "2006/01/02 15:04:05"
+
+  navbar:
+    displayTitle: false
+    displayLogo: true
+    logo:
+      path: images/logo.png
+      dark: images/logo-dark.png
+      width: 175
+      height: 50
+
+
+  footer:
+    displayCopyright: false
+    displayPoweredBy: false
+
+  blog:
+    list:
+      displayTags: true
+      # date | lastmod | publishDate | title | weight
+      sortBy: date
+      sortOrder: desc # or "asc"
+      # Pagination
+      pagerSize: 10
+
+    article:
+      displayPagination: true
+
+  toc:
+    displayTags: false
+  
+  page:
+    # full (100%), wide (90rem), normal (1280px)
+    width: wide
+
+    # 搜索
+  search:
+    enable: true
+    type: flexsearch
+    flexsearch:
+      # 按以下内容索引页面：content | summary | heading | title
+      index: content
+
+  comments:
+    enable: false
+
+  floatingWidget:
+    enable: true
+    url: "/ai-daily-site/chat/"
+
+defaultContentLanguage: zh
+languages:
+  zh:
+    languageCode: zh-CN
+    contentDir: content/cn
+    languageName: 简体中文
+    weight: 1

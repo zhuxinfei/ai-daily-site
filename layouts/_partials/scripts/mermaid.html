@@ -1,0 +1,147 @@
+{{- /* Custom Mermaid with professional theme */ -}}
+{{- $mermaidBase := "https://cdn.jsdelivr.net/npm/mermaid@latest/dist" -}}
+{{- $minSuffix := cond hugo.IsProduction ".min" "" -}}
+{{- $jsPath := printf "mermaid%s.js" $minSuffix -}}
+{{- $mermaidJsUrl := urls.JoinPath $mermaidBase $jsPath -}}
+{{- with try (resources.GetRemote $mermaidJsUrl) -}}
+  {{- with .Err -}}
+    {{- errorf "Could not retrieve Mermaid js: %s" . -}}
+  {{- else with .Value -}}
+    {{- with resources.Copy (printf "js/mermaid%s.js" $minSuffix) . -}}
+      {{- $mermaidJs := . | fingerprint -}}
+      <script defer src="{{ $mermaidJs.RelPermalink }}" integrity="{{ $mermaidJs.Data.Integrity }}" crossorigin="anonymous"></script>
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+
+<script>
+  document.addEventListener("DOMContentLoaded", () => {
+    document.querySelectorAll(".mermaid").forEach((el) => {
+      el.dataset.original = el.innerHTML;
+    });
+
+    // Always use light theme for Mermaid — diagrams have their own
+    // container background, and light theme ensures text is always
+    // dark and visible regardless of page dark/light mode.
+    const mermaidTheme = {
+      startOnLoad: true,
+      theme: "base",
+      themeVariables: {
+        primaryColor: "#dbeafe",
+        primaryTextColor: "#1e293b",
+        primaryBorderColor: "#3b82f6",
+        secondaryColor: "#fef3c7",
+        secondaryTextColor: "#78350f",
+        secondaryBorderColor: "#f59e0b",
+        tertiaryColor: "#d1fae5",
+        tertiaryTextColor: "#064e3b",
+        tertiaryBorderColor: "#10b981",
+        lineColor: "#94a3b8",
+        textColor: "#334155",
+        mainBkg: "#f8fafc",
+        nodeBorder: "#cbd5e1",
+        clusterBkg: "#f1f5f9",
+        clusterBorder: "#e2e8f0",
+        titleColor: "#1e293b",
+        edgeLabelBackground: "#ffffff",
+        fontSize: "14px",
+        fontFamily: "ui-sans-serif, system-ui, -apple-system, sans-serif"
+      }
+    };
+    mermaid.initialize(mermaidTheme);
+
+    // No dark/light observer needed — Mermaid always uses light theme.
+  });
+
+  // Auto-number details buttons + toggle text on open/close.
+  document.addEventListener("DOMContentLoaded", () => {
+    document.querySelectorAll("article details").forEach((el, i) => {
+      const n = i + 1;
+      const summary = el.querySelector("summary");
+      if (!summary) return;
+      summary.textContent = "▶ 展开详细图谱 " + n;
+      el.addEventListener("toggle", () => {
+        summary.textContent = el.open
+          ? "▼ 收起详细图谱 " + n
+          : "▶ 展开详细图谱 " + n;
+      });
+    });
+  });
+
+</script>
+
+<style>
+/* Mermaid diagram container styling */
+.mermaid {
+  margin: 1.5rem 0;
+  padding: 1rem;
+  border-radius: 0.75rem;
+  background: linear-gradient(135deg, #f8fafc 0%, #f1f5f9 100%);
+  border: 1px solid #e2e8f0;
+  overflow-x: auto;
+}
+.dark .mermaid {
+  background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%);
+  border-color: #334155;
+}
+/* Mermaid SVG text — better font rendering */
+.mermaid svg {
+  font-family: ui-sans-serif, system-ui, -apple-system, sans-serif !important;
+  max-width: 100%;
+  height: auto;
+}
+/* Subgraph titles */
+.mermaid .cluster-label span {
+  font-weight: 600 !important;
+  font-size: 13px !important;
+}
+/* Edge labels */
+.mermaid .edgeLabel {
+  font-size: 12px !important;
+  background: transparent !important;
+}
+/* Mindmap nodes */
+.mermaid .mindmap-node rect,
+.mermaid .mindmap-node circle,
+.mermaid .mindmap-node polygon {
+  rx: 8;
+  ry: 8;
+}
+/* Collapsible detail diagram */
+article details {
+  margin: 1rem 0;
+  border: none;
+}
+article details > summary {
+  display: inline-block;
+  padding: 0.5rem 1.25rem;
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: #fff;
+  background: #3b82f6;
+  border: none;
+  border-radius: 0.375rem;
+  cursor: pointer;
+  user-select: none;
+  list-style: none !important;
+  -webkit-appearance: none;
+  transition: background 0.15s;
+}
+article details > summary:hover {
+  background: #2563eb;
+}
+article details > summary::marker,
+article details > summary::-webkit-details-marker {
+  display: none !important;
+  font-size: 0;
+}
+article details[open] > summary {
+  margin-bottom: 0.75rem;
+}
+.dark article details > summary {
+  background: #2563eb;
+}
+.dark article details > summary:hover {
+  background: #3b82f6;
+}
+</style>

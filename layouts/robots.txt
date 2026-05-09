@@ -1,0 +1,3 @@
+User-agent: *
+
+# v1.0.0 占位 robots.txt：上游 sitemap 链接已移除，待用户提供正式域名后补回

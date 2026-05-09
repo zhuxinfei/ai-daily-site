@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>AI 日报 · 智能问答</title>
+<script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+<style>
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body { font-family: ui-sans-serif, system-ui, -apple-system, sans-serif; background: #f8fafc; height: 100vh; display: flex; flex-direction: column; }
+#header { padding: 0.75rem 1rem; background: #fff; border-bottom: 1px solid #e2e8f0; font-weight: 600; font-size: 0.95rem; color: #1e293b; display: flex; align-items: center; gap: 0.5rem; }
+#header span { color: #3b82f6; }
+#messages { flex: 1; overflow-y: auto; padding: 1rem; display: flex; flex-direction: column; gap: 0.75rem; }
+.msg { max-width: 85%; padding: 0.75rem 1rem; border-radius: 1rem; font-size: 0.9rem; line-height: 1.6; word-break: break-word; }
+.msg.bot { align-self: flex-start; background: #fff; border: 1px solid #e2e8f0; border-radius: 1rem 1rem 1rem 0.25rem; }
+.msg.bot h1,.msg.bot h2,.msg.bot h3 { font-size: 1rem; margin: 0.5rem 0 0.25rem; }
+.msg.bot p { margin: 0.25rem 0; }
+.msg.bot ul,.msg.bot ol { margin: 0.25rem 0 0.25rem 1.25rem; }
+.msg.bot li { margin: 0.15rem 0; }
+.msg.bot code { background: #f1f5f9; padding: 0.1rem 0.3rem; border-radius: 0.2rem; font-size: 0.85em; }
+.msg.bot a { color: #3b82f6; }
+.msg.user { align-self: flex-end; background: #3b82f6; color: #fff; border-radius: 1rem 1rem 0.25rem 1rem; }
+#input-area { padding: 0.75rem; background: #fff; border-top: 1px solid #e2e8f0; display: flex; gap: 0.5rem; }
+#input { flex: 1; padding: 0.6rem 1rem; border: 1px solid #e2e8f0; border-radius: 1.5rem; font-size: 0.9rem; outline: none; }
+#input:focus { border-color: #3b82f6; }
+#send { padding: 0.6rem 1.25rem; background: #3b82f6; color: #fff; border: none; border-radius: 1.5rem; font-size: 0.9rem; font-weight: 500; cursor: pointer; }
+#send:hover { background: #2563eb; }
+#send:disabled { background: #94a3b8; cursor: not-allowed; }
+@keyframes blink { 0%,100% { opacity: 1; } 50% { opacity: 0; } }
+.cursor { display: inline-block; width: 2px; height: 1em; background: #3b82f6; margin-left: 2px; vertical-align: text-bottom; animation: blink 0.8s infinite; }
+body.dark { background: #0f172a; }
+body.dark #header { background: #1e293b; border-color: #334155; color: #e2e8f0; }
+body.dark .msg.bot { background: #1e293b; border-color: #334155; color: #e2e8f0; }
+body.dark .msg.bot code { background: #0f172a; }
+body.dark #input-area { background: #1e293b; border-color: #334155; }
+body.dark #input { background: #0f172a; border-color: #334155; color: #e2e8f0; }
+</style>
+</head>
+<body>
+<div id="header"><span>🤖</span> AI 日报 · 智能问答</div>
+<div id="messages">
+  <div class="msg bot">你好！我是 AI 日报助手，可以回答关于 AI 行业的问题。试试问我"今天有什么重要的AI新闻？"</div>
+</div>
+<div id="input-area">
+  <input id="input" type="text" placeholder="输入你的问题..." autocomplete="off">
+  <button id="send">发送</button>
+</div>
+<script>
+const API = "https://briefing-chat-proxy.odd-moon-8b62.workers.dev";
+const msgEl = document.getElementById("messages");
+const input = document.getElementById("input");
+const sendBtn = document.getElementById("send");
+const history = [];
+
+function createMsg(cls) {
+  const d = document.createElement("div");
+  d.className = "msg " + cls;
+  msgEl.appendChild(d);
+  msgEl.scrollTop = msgEl.scrollHeight;
+  return d;
+}
+
+async function doSend() {
+  const text = input.value.trim();
+  if (!text) return;
+  input.value = "";
+
+  // User message.
+  const userMsg = createMsg("user");
+  userMsg.textContent = text;
+  history.push({ role: "user", content: text });
+
+  sendBtn.disabled = true;
+
+  // Bot message — stream into it.
+  const botMsg = createMsg("bot");
+  botMsg.innerHTML = '<span class="cursor"></span>';
+  let fullText = "";
+
+  try {
+    const res = await fetch(API, {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ messages: history })
+    });
+
+    const reader = res.body.getReader();
+    const decoder = new TextDecoder();
+    let buffer = "";
+
+    while (true) {
+      const { done, value } = await reader.read();
+      if (done) break;
+
+      buffer += decoder.decode(value, { stream: true });
+      const lines = buffer.split("\n");
+      buffer = lines.pop(); // keep incomplete line
+
+      for (const line of lines) {
+        if (!line.startsWith("data: ")) continue;
+        const data = line.slice(6).trim();
+        if (data === "[DONE]") continue;
+        try {
+          const json = JSON.parse(data);
+          const token = json.response || json.choices?.[0]?.delta?.content || "";
+          if (token) {
+            fullText += token;
+            botMsg.innerHTML = marked.parse(fullText) + '<span class="cursor"></span>';
+            msgEl.scrollTop = msgEl.scrollHeight;
+          }
+        } catch(e) { /* skip unparseable */ }
+      }
+    }
+
+    // Final render without cursor.
+    botMsg.innerHTML = marked.parse(fullText || "抱歉，暂时无法回答。");
+    history.push({ role: "assistant", content: fullText });
+
+  } catch(e) {
+    botMsg.innerHTML = "网络错误，请稍后重试。";
+  }
+
+  sendBtn.disabled = false;
+  input.focus();
+}
+
+sendBtn.addEventListener("click", doSend);
+input.addEventListener("keydown", (e) => { if (e.key === "Enter") doSend(); });
+input.focus();
+if (new URLSearchParams(window.location.search).get("theme") === "dark") document.body.classList.add("dark");
+</script>
+</body>
+</html>

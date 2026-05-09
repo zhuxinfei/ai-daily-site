@@ -1,0 +1,16 @@
+name: build-book (disabled in v1.0.0)
+
+# v1.0.0 不使用 GitHub Actions：
+# 采集/渲染/推送由 briefing-v3 在服务器侧通过 systemd timer 驱动。
+# 原 workflow 依赖的 CloudFlare-AI-Insight-Daily 源仓库和 Hextra-AI-Insight-Daily 上游品牌字眼
+# 已随 v1.0.0 迁移移除。保留本文件占位，避免 GitHub 显示"无 workflow"。
+
+on:
+  workflow_dispatch:
+
+jobs:
+  noop:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Disabled in v1.0.0
+        run: echo "This workflow is disabled in briefing-v3 v1.0.0."
