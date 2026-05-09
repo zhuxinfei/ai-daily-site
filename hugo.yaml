@@ -1,5 +1,5 @@
 # Hugo configuration file
-baseURL: https://ylzsdafei.github.io/ai-daily-site/
+baseURL: https://zhuxinfei.github.io/ai-daily-site/
 title: AI 日报
 
 timezone: Asia/Shanghai
@@ -112,7 +112,7 @@ params:
 
   floatingWidget:
     enable: true
-    url: "/ai-daily-site/chat/"
+    url: "/chat/"
 
 defaultContentLanguage: zh
 languages:
