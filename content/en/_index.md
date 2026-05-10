@@ -28,12 +28,12 @@ AI 日报
 ## 最近内容
 
 <!-- LATEST_6_CARDS_START -->
-{{< card link="/en/2026-05/2026-05-07" title="AI News Daily 2026/05/07" subtitle="Anthropic 一口气推 10 个金融 AI Agent 并接入 Microsoft 365，Claude 使用上限同步拉高 Anthropic 搭上 SpaceX Colossus-1 迈入 2" icon="calendar" >}}
+{{< card link="/en/2026-05/2026-05-09" title="AI News Daily 2026/05/09" subtitle="AI日报 · 每日自动生成" icon="calendar" >}}
+  {{< card link="/en/2026-05/2026-05-07" title="AI News Daily 2026/05/07" subtitle="Anthropic 一口气推 10 个金融 AI Agent 并接入 Microsoft 365，Claude 使用上限同步拉高 Anthropic 搭上 SpaceX Colossus-1 迈入 2" icon="calendar" >}}
   {{< card link="/en/2026-05/2026-05-06" title="AI News Daily 2026/05/06" subtitle="OpenAI 上线 GPT-5.5 Instant 主打更快更少幻觉，美国政府可在发布前测试五家头部模型公司 Anthropic 联创警告递归式 AI 自我改进或快过人类监督，OpenAI 与 Ant" icon="calendar" >}}
   {{< card link="/en/2026-05/2026-05-05" title="AI News Daily 2026/05/05" subtitle="OpenAI 为企业部署募资超40亿美元，Anthropic联手黑石集团和高盛，卖AI从模型战杀入交付战 Sierra融资9.5亿美元估值冲上150亿，Cerebras冲击高估值IPO，AI资本狂潮从" icon="calendar" >}}
   {{< card link="/en/2026-05/2026-05-04" title="AI News Daily 2026/05/04" subtitle="ChatGPT 默认开启广告追踪惹争议，OpenAI 一边强化用户保护一边为新收入铺路 Google 把购物塞进 Gemini、AI 搜索模式和圈选即搜，搜索电商入口被 AI 全线改写 Claude " icon="calendar" >}}
   {{< card link="/en/2026-05/2026-05-03" title="AI News Daily 2026/05/03" subtitle="Google把Gemini塞进400万辆通用汽车，还把购物接入AI Mode与Circle to Search，AI搜索直冲交易闭环 Anthropic连发Claude Security测试版、Cla" icon="calendar" >}}
-  {{< card link="/en/2026-05/2026-05-02" title="AI News Daily 2026/05/02" subtitle="科技巨头今年AI支出飙到7250亿美元，五角大楼联手Nvidia、Microsoft、AWS把AI塞进机密网络 Anthropic上线Claude Security补强防守，GPT-5.5网络攻击测试" icon="calendar" >}}
 <!-- LATEST_6_CARDS_END -->
 
 ---
