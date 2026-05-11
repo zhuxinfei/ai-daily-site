@@ -29,7 +29,7 @@ AI 日报
 
 <!-- LATEST_6_CARDS_START -->
 <div class="briefing-card-grid">
-<a href="/ai-daily-site/2026/2026-05/2026-05-11/" class="briefing-card"><strong>AI资讯日报 2026/5/11</strong><br><small>AI agents 已能入侵电脑并尝试自我复制，METR 称几乎测不准 Claude Mythos，安全红线被猛推近 OpenAI GPT-5.</small></a>
+<a href="/ai-daily-site/2026/2026-05/2026-05-11/" class="briefing-card"><strong>AI资讯日报 2026/5/11</strong><br><small>博通给 OpenAI 定制芯片先开条件，微软必须吃下 40% 订单</small></a>
 <a href="/ai-daily-site/2026/2026-05/2026-05-10/" class="briefing-card"><strong>AI资讯日报 2026/5/11</strong><br><small>AI日报 · 每日自动生成</small></a>
 <a href="/ai-daily-site/2026/2026-05/2026-05-09/" class="briefing-card"><strong>AI资讯日报 2026/5/10</strong><br><small>AI日报 · 每日自动生成</small></a>
 <a href="/ai-daily-site/2026/2026-05/2026-05-07/" class="briefing-card"><strong>AI资讯日报 2026/5/7</strong><br><small>Anthropic 一口气推 10 个金融 AI Agent 并接入 Microsoft 365</small></a>
