@@ -19,7 +19,7 @@ AI 日报
 
 <!-- TODAY_LINK_START -->
 <div style="text-align:center;margin-bottom:2rem;">
-<a href="/ai-daily-site/2026/2026-05/2026-05-11/" style="display:inline-block;padding:0.75rem 2rem;background:#3b82f6;color:#fff;border-radius:0.5rem;font-weight:600;text-decoration:none;font-size:1.05rem;transition:background 0.2s;">查看今日早报 →</a>
+<a href="/ai-daily-site/2026/2026-05/2026-05-12/" style="display:inline-block;padding:0.75rem 2rem;background:#3b82f6;color:#fff;border-radius:0.5rem;font-weight:600;text-decoration:none;font-size:1.05rem;transition:background 0.2s;">查看今日早报 →</a>
 </div>
 <!-- TODAY_LINK_END -->
 
@@ -29,12 +29,12 @@ AI 日报
 
 <!-- LATEST_6_CARDS_START -->
 <div class="briefing-card-grid">
+<a href="/ai-daily-site/2026/2026-05/2026-05-12/" class="briefing-card"><strong>AI资讯日报 2026/5/12</strong><br><small>百度文心 Ernie 5.1 把预训练成本压低 94%</small></a>
 <a href="/ai-daily-site/2026/2026-05/2026-05-11/" class="briefing-card"><strong>AI资讯日报 2026/5/11</strong><br><small>博通给 OpenAI 定制芯片先开条件，微软必须吃下 40% 订单</small></a>
-<a href="/ai-daily-site/2026/2026-05/2026-05-10/" class="briefing-card"><strong>AI资讯日报 2026/5/11</strong><br><small>AI日报 · 每日自动生成</small></a>
-<a href="/ai-daily-site/2026/2026-05/2026-05-09/" class="briefing-card"><strong>AI资讯日报 2026/5/10</strong><br><small>AI日报 · 每日自动生成</small></a>
 <a href="/ai-daily-site/2026/2026-05/2026-05-07/" class="briefing-card"><strong>AI资讯日报 2026/5/7</strong><br><small>Anthropic 一口气推 10 个金融 AI Agent 并接入 Microsoft 365</small></a>
 <a href="/ai-daily-site/2026/2026-05/2026-05-06/" class="briefing-card"><strong>AI资讯日报 2026/5/6</strong><br><small>OpenAI 上线 GPT-5.5 Instant 主打更快更少幻觉，美国政府可在发布前测试五家头部模型公司 Anthropic 联创警告递归式 AI</small></a>
 <a href="/ai-daily-site/2026/2026-05/2026-05-05/" class="briefing-card"><strong>AI资讯日报 2026/5/5</strong><br><small>OpenAI 为企业部署募资超40亿美元，Anthropic联手黑石集团和高盛，卖AI从模型战杀入交付战 Sierra融资9.</small></a>
+<a href="/ai-daily-site/2026/2026-05/2026-05-04/" class="briefing-card"><strong>AI资讯日报 2026/5/4</strong><br><small>ChatGPT 默认开启广告追踪惹争议，OpenAI 一边强化用户保护一边为新收入铺路 Google 把购物塞进 Gemini、AI 搜索模式和圈选即搜</small></a>
 </div>
 <!-- LATEST_6_CARDS_END -->
 
