@@ -29,7 +29,7 @@ AI 日报
 
 <!-- LATEST_6_CARDS_START -->
 <div class="briefing-card-grid">
-<a href="/ai-daily-site/2026/2026-05/2026-05-12/" class="briefing-card"><strong>AI资讯日报 2026/5/12</strong><br><small>百度文心 Ernie 5.1 把预训练成本压低 94%</small></a>
+<a href="/ai-daily-site/2026/2026-05/2026-05-12/" class="briefing-card"><strong>AI资讯日报 2026/5/12</strong><br><small>OpenAI 推 DeployCo 直插企业现场，ChatGPT 2026 年初继续破圈</small></a>
 <a href="/ai-daily-site/2026/2026-05/2026-05-11/" class="briefing-card"><strong>AI资讯日报 2026/5/11</strong><br><small>博通给 OpenAI 定制芯片先开条件，微软必须吃下 40% 订单</small></a>
 <a href="/ai-daily-site/2026/2026-05/2026-05-07/" class="briefing-card"><strong>AI资讯日报 2026/5/7</strong><br><small>Anthropic 一口气推 10 个金融 AI Agent 并接入 Microsoft 365</small></a>
 <a href="/ai-daily-site/2026/2026-05/2026-05-06/" class="briefing-card"><strong>AI资讯日报 2026/5/6</strong><br><small>OpenAI 上线 GPT-5.5 Instant 主打更快更少幻觉，美国政府可在发布前测试五家头部模型公司 Anthropic 联创警告递归式 AI</small></a>
