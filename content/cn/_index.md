@@ -18,10 +18,8 @@ AI 日报
 </div>
 
 <!-- TODAY_LINK_START -->
-<div style="display: flex; flex-wrap: wrap; gap: 0.5rem; margin-top: 1rem; justify-content: center;">
-  <a href="/ai-daily-site/2026/2026-05/2026-05-18/" style="padding: 0.5rem 1rem; background: #dbeafe; border-radius: 0.5rem; font-weight: 600; text-decoration: none; color: #1e40af;">📰 今日 (18-05)</a>
-  <a href="/ai-daily-site/2026/2026-05/2026-05-17/" style="padding: 0.5rem 1rem; background: #f3f4f6; border-radius: 0.5rem; text-decoration: none; color: #374151;">05-17</a><a href="/ai-daily-site/2026/2026-05/2026-05-16/" style="padding: 0.5rem 1rem; background: #f3f4f6; border-radius: 0.5rem; text-decoration: none; color: #374151;">05-16</a><a href="/ai-daily-site/2026/2026-05/2026-05-15/" style="padding: 0.5rem 1rem; background: #f3f4f6; border-radius: 0.5rem; text-decoration: none; color: #374151;">05-15</a>
-  <a href="/ai-daily-site/2026/2026-05/" style="padding: 0.5rem 1rem; background: #f3f4f6; border-radius: 0.5rem; text-decoration: none; color: #6b7280;">📅 全部</a>
+<div style="text-align:center;margin-bottom:2rem;">
+<a href="/ai-daily-site/2026/2026-05/2026-05-19/" style="display:inline-block;padding:0.75rem 2rem;background:#3b82f6;color:#fff;border-radius:0.5rem;font-weight:600;text-decoration:none;font-size:1.05rem;transition:background 0.2s;">查看今日早报 →</a>
 </div>
 <!-- TODAY_LINK_END -->
 
@@ -31,12 +29,12 @@ AI 日报
 
 <!-- LATEST_6_CARDS_START -->
 <div class="briefing-card-grid">
+<a href="/ai-daily-site/2026/2026-05/2026-05-19/" class="briefing-card"><strong>AI资讯日报 2026/5/19</strong><br><small>Anthropic连环出手：收购Stainless（API开发工具商），Claude for Legal开源</small></a>
+<a href="/ai-daily-site/2026/2026-05/2026-05-18/" class="briefing-card"><strong>AI资讯日报 2026/5/18</strong><br><small>## **今日摘要**  AI日报主要聚焦三类动态：产品层面上，Databricks将GPT-5.</small></a>
+<a href="/ai-daily-site/2026/2026-05/2026-05-17/" class="briefing-card"><strong>AI资讯日报 2026/5/18</strong><br><small>## **今日摘要**  苹果、OpenAI、Cerebras 等公司的最新动态显示</small></a>
+<a href="/ai-daily-site/2026/2026-05/2026-05-16/" class="briefing-card"><strong>AI资讯日报 2026/5/17</strong><br><small>## **今日摘要**  OpenAI 正在推进产品一体化：一方面据称整合 ChatGPT 与 Codex 的产品策略</small></a>
+<a href="/ai-daily-site/2026/2026-05/2026-05-15/" class="briefing-card"><strong>AI资讯日报 2026/5/16</strong><br><small>## **今日摘要**  OpenAI 正在把 Codex 从桌面扩展到移动端和跨设备场景，新增 Remote SSH、hooks 和程序令牌等能力</small></a>
 <a href="/ai-daily-site/2026/2026-05/2026-05-14/" class="briefing-card"><strong>AI资讯日报 2026/5/14</strong><br><small>Anthropic 推出 Claude for Small Business，企业付费客户占比首次反超 OpenAI</small></a>
-<a href="/ai-daily-site/2026/2026-05/2026-05-13/" class="briefing-card"><strong>AI资讯日报 2026/5/13</strong><br><small>Anthropic 企业付费客户占比首次反超 OpenAI</small></a>
-<a href="/ai-daily-site/2026/2026-05/2026-05-12/" class="briefing-card"><strong>AI资讯日报 2026/5/12</strong><br><small>OpenAI 推 DeployCo 直插企业现场，ChatGPT 2026 年初继续破圈</small></a>
-<a href="/ai-daily-site/2026/2026-05/2026-05-11/" class="briefing-card"><strong>AI资讯日报 2026/5/11</strong><br><small>博通给 OpenAI 定制芯片先开条件，微软必须吃下 40% 订单</small></a>
-<a href="/ai-daily-site/2026/2026-05/2026-05-07/" class="briefing-card"><strong>AI资讯日报 2026/5/7</strong><br><small>Anthropic 一口气推 10 个金融 AI Agent 并接入 Microsoft 365</small></a>
-<a href="/ai-daily-site/2026/2026-05/2026-05-06/" class="briefing-card"><strong>AI资讯日报 2026/5/6</strong><br><small>OpenAI 上线 GPT-5.5 Instant 主打更快更少幻觉，美国政府可在发布前测试五家头部模型公司 Anthropic 联创警告递归式 AI</small></a>
 </div>
 <!-- LATEST_6_CARDS_END -->
 
