@@ -18,8 +18,10 @@ AI 日报
 </div>
 
 <!-- TODAY_LINK_START -->
-<div style="text-align:center;margin-bottom:2rem;">
-<a href="/ai-daily-site/2026/2026-05/2026-05-14/" style="display:inline-block;padding:0.75rem 2rem;background:#3b82f6;color:#fff;border-radius:0.5rem;font-weight:600;text-decoration:none;font-size:1.05rem;transition:background 0.2s;">查看今日早报 →</a>
+<div style="display: flex; flex-wrap: wrap; gap: 0.5rem; margin-top: 1rem; justify-content: center;">
+  <a href="/ai-daily-site/2026/2026-05/2026-05-18/" style="padding: 0.5rem 1rem; background: #dbeafe; border-radius: 0.5rem; font-weight: 600; text-decoration: none; color: #1e40af;">📰 今日 (18-05)</a>
+  <a href="/ai-daily-site/2026/2026-05/2026-05-17/" style="padding: 0.5rem 1rem; background: #f3f4f6; border-radius: 0.5rem; text-decoration: none; color: #374151;">05-17</a><a href="/ai-daily-site/2026/2026-05/2026-05-16/" style="padding: 0.5rem 1rem; background: #f3f4f6; border-radius: 0.5rem; text-decoration: none; color: #374151;">05-16</a><a href="/ai-daily-site/2026/2026-05/2026-05-15/" style="padding: 0.5rem 1rem; background: #f3f4f6; border-radius: 0.5rem; text-decoration: none; color: #374151;">05-15</a>
+  <a href="/ai-daily-site/2026/2026-05/" style="padding: 0.5rem 1rem; background: #f3f4f6; border-radius: 0.5rem; text-decoration: none; color: #6b7280;">📅 全部</a>
 </div>
 <!-- TODAY_LINK_END -->
 
