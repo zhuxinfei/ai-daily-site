@@ -19,7 +19,7 @@ AI 日报
 
 <!-- TODAY_LINK_START -->
 <div style="text-align:center;margin-bottom:2rem;">
-<a href="/ai-daily-site/2026/2026-05/2026-05-20/" style="display:inline-block;padding:0.75rem 2rem;background:#3b82f6;color:#fff;border-radius:0.5rem;font-weight:600;text-decoration:none;font-size:1.05rem;transition:background 0.2s;">查看今日早报 →</a>
+<a href="/ai-daily-site/2026/2026-05/2026-05-21/" style="display:inline-block;padding:0.75rem 2rem;background:#3b82f6;color:#fff;border-radius:0.5rem;font-weight:600;text-decoration:none;font-size:1.05rem;transition:background 0.2s;">查看今日早报 →</a>
 </div>
 <!-- TODAY_LINK_END -->
 
@@ -29,12 +29,12 @@ AI 日报
 
 <!-- LATEST_6_CARDS_START -->
 <div class="briefing-card-grid">
-<a href="/ai-daily-site/2026/2026-05/2026-05-20/" class="briefing-card"><strong>AI资讯日报 2026/5/20</strong><br><small>Google 连发 Gemini 3.5 Flash、Gemini Omni、Android CLI</small></a>
+<a href="/ai-daily-site/2026/2026-05/2026-05-21/" class="briefing-card"><strong>AI资讯日报 2026/5/21</strong><br><small>Google I/O 一夜塞满 Gemini 新模型与云端 Agent，AI Search 升级</small></a>
+<a href="/ai-daily-site/2026/2026-05/2026-05-20/" class="briefing-card"><strong>AI资讯日报 2026/5/21</strong><br><small>## **今日摘要**  Stable Audio 3.0、Gemini 3.5 Flash/Omni、PaddleOCR 3.</small></a>
 <a href="/ai-daily-site/2026/2026-05/2026-05-19/" class="briefing-card"><strong>AI资讯日报 2026/5/20</strong><br><small>## **今日摘要**  AI 产品正在同时向两端扩张：一方面 Google 推动“人人可用”的轻量化设计工具</small></a>
 <a href="/ai-daily-site/2026/2026-05/2026-05-18/" class="briefing-card"><strong>AI资讯日报 2026/5/18</strong><br><small>## **今日摘要**  AI日报主要聚焦三类动态：产品层面上，Databricks将GPT-5.</small></a>
 <a href="/ai-daily-site/2026/2026-05/2026-05-17/" class="briefing-card"><strong>AI资讯日报 2026/5/17</strong><br><small>## **今日摘要**  苹果、OpenAI、Cerebras 等公司的最新动态显示</small></a>
 <a href="/ai-daily-site/2026/2026-05/2026-05-16/" class="briefing-card"><strong>AI资讯日报 2026/5/16</strong><br><small>## **今日摘要**  OpenAI 正在推进产品一体化：一方面据称整合 ChatGPT 与 Codex 的产品策略</small></a>
-<a href="/ai-daily-site/2026/2026-05/2026-05-15/" class="briefing-card"><strong>AI资讯日报 2026/5/15</strong><br><small>## **今日摘要**  OpenAI 正在把 Codex 从桌面扩展到移动端和跨设备场景，新增 Remote SSH、hooks 和程序令牌等能力</small></a>
 </div>
 <!-- LATEST_6_CARDS_END -->
 
