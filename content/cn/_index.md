@@ -19,7 +19,7 @@ AI 日报
 
 <!-- TODAY_LINK_START -->
 <div style="text-align:center;margin-bottom:2rem;">
-<a href="/ai-daily-site/2026/2026-05/2026-05-23/" style="display:inline-block;padding:0.75rem 2rem;background:#3b82f6;color:#fff;border-radius:0.5rem;font-weight:600;text-decoration:none;font-size:1.05rem;transition:background 0.2s;">查看今日早报 →</a>
+<a href="/ai-daily-site/2026/2026-05/2026-05-24/" style="display:inline-block;padding:0.75rem 2rem;background:#3b82f6;color:#fff;border-radius:0.5rem;font-weight:600;text-decoration:none;font-size:1.05rem;transition:background 0.2s;">查看今日早报 →</a>
 </div>
 <!-- TODAY_LINK_END -->
 
@@ -29,12 +29,12 @@ AI 日报
 
 <!-- LATEST_6_CARDS_START -->
 <div class="briefing-card-grid">
+<a href="/ai-daily-site/2026/2026-05/2026-05-24/" class="briefing-card"><strong>AI资讯日报 2026/5/24</strong><br><small>2026-05-24</small></a>
 <a href="/ai-daily-site/2026/2026-05/2026-05-23/" class="briefing-card"><strong>AI资讯日报 2026/5/23</strong><br><small>2026-05-23</small></a>
 <a href="/ai-daily-site/2026/2026-05/2026-05-22/" class="briefing-card"><strong>AI资讯日报 2026/5/22</strong><br><small>## **今日摘要**  本周动态显示，生成式 AI 正从“实验性工具”快速走向实际应用：例如 AdventHealth 用 ChatGPT</small></a>
 <a href="/ai-daily-site/2026/2026-05/2026-05-21/" class="briefing-card"><strong>AI资讯日报 2026/5/21</strong><br><small>## **今日摘要**  本周AI动态显示，开源大模型、医疗与软件开发等行业应用，以及智能体基础设施都在快速成熟</small></a>
 <a href="/ai-daily-site/2026/2026-05/2026-05-20/" class="briefing-card"><strong>AI资讯日报 2026/5/20</strong><br><small>## **今日摘要**  Stable Audio 3.0、Gemini 3.5 Flash/Omni、PaddleOCR 3.</small></a>
 <a href="/ai-daily-site/2026/2026-05/2026-05-19/" class="briefing-card"><strong>AI资讯日报 2026/5/20</strong><br><small>## **今日摘要**  AI 产品正在同时向两端扩张：一方面 Google 推动“人人可用”的轻量化设计工具</small></a>
-<a href="/ai-daily-site/2026/2026-05/2026-05-18/" class="briefing-card"><strong>AI资讯日报 2026/5/18</strong><br><small>## **今日摘要**  AI日报主要聚焦三类动态：产品层面上，Databricks将GPT-5.</small></a>
 </div>
 <!-- LATEST_6_CARDS_END -->
 
