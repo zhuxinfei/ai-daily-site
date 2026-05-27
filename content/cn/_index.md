@@ -19,7 +19,7 @@ AI 日报
 
 <!-- TODAY_LINK_START -->
 <div style="text-align:center;margin-bottom:2rem;">
-<a href="/ai-daily-site/2026/2026-05/2026-05-26/" style="display:inline-block;padding:0.75rem 2rem;background:#3b82f6;color:#fff;border-radius:0.5rem;font-weight:600;text-decoration:none;font-size:1.05rem;transition:background 0.2s;">查看今日早报 →</a>
+<a href="/ai-daily-site/2026/2026-05/2026-05-27/" style="display:inline-block;padding:0.75rem 2rem;background:#3b82f6;color:#fff;border-radius:0.5rem;font-weight:600;text-decoration:none;font-size:1.05rem;transition:background 0.2s;">查看今日早报 →</a>
 </div>
 <!-- TODAY_LINK_END -->
 
@@ -29,12 +29,12 @@ AI 日报
 
 <!-- LATEST_6_CARDS_START -->
 <div class="briefing-card-grid">
+<a href="/ai-daily-site/2026/2026-05/2026-05-27/" class="briefing-card"><strong>AI资讯日报 2026/5/27</strong><br><small>2026-05-27</small></a>
 <a href="/ai-daily-site/2026/2026-05/2026-05-26/" class="briefing-card"><strong>AI资讯日报 2026/5/26</strong><br><small>2026-05-26</small></a>
 <a href="/ai-daily-site/2026/2026-05/2026-05-25/" class="briefing-card"><strong>AI资讯日报 2026/5/25</strong><br><small>2026-05-25</small></a>
 <a href="/ai-daily-site/2026/2026-05/2026-05-24/" class="briefing-card"><strong>AI资讯日报 2026/5/24</strong><br><small>2026-05-24</small></a>
 <a href="/ai-daily-site/2026/2026-05/2026-05-23/" class="briefing-card"><strong>AI资讯日报 2026/5/23</strong><br><small>2026-05-23</small></a>
 <a href="/ai-daily-site/2026/2026-05/2026-05-22/" class="briefing-card"><strong>AI资讯日报 2026/5/22</strong><br><small>## **今日摘要**  本周动态显示，生成式 AI 正从“实验性工具”快速走向实际应用：例如 AdventHealth 用 ChatGPT</small></a>
-<a href="/ai-daily-site/2026/2026-05/2026-05-21/" class="briefing-card"><strong>AI资讯日报 2026/5/21</strong><br><small>## **今日摘要**  本周AI动态显示，开源大模型、医疗与软件开发等行业应用，以及智能体基础设施都在快速成熟</small></a>
 </div>
 <!-- LATEST_6_CARDS_END -->
 
