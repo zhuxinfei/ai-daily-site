@@ -29,7 +29,7 @@ AI 日报
 
 <!-- LATEST_6_CARDS_START -->
 <div class="briefing-card-grid">
-<a href="/ai-daily-site/2026/2026-06/2026-06-04/" class="briefing-card"><strong>AI资讯日报 2026/6/4</strong><br><small>Alphabet（Google母公司）850亿美元加码AI</small></a>
+<a href="/ai-daily-site/2026/2026-06/2026-06-04/" class="briefing-card"><strong>AI资讯日报 2026/6/4</strong><br><small>Meta 开发者 AI 模型二度延期，Ideogram 4.0（AI 图像模型）开放权重直上原生 2K Anthropic 披露一年 AI 网络威胁</small></a>
 <a href="/ai-daily-site/2026/2026-06/2026-06-01/" class="briefing-card"><strong>AI资讯日报 2026/6/1</strong><br><small>2026-06-01</small></a>
 <a href="/ai-daily-site/2026/2026-05/2026-05-31/" class="briefing-card"><strong>AI资讯日报 2026/5/31</strong><br><small>2026-05-31</small></a>
 <a href="/ai-daily-site/2026/2026-05/2026-05-30/" class="briefing-card"><strong>AI资讯日报 2026/5/30</strong><br><small>2026-05-30</small></a>
