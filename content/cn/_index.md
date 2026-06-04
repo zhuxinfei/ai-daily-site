@@ -19,7 +19,7 @@ AI 日报
 
 <!-- TODAY_LINK_START -->
 <div style="text-align:center;margin-bottom:2rem;">
-<a href="/ai-daily-site/2026/2026-06/2026-06-01/" style="display:inline-block;padding:0.75rem 2rem;background:#3b82f6;color:#fff;border-radius:0.5rem;font-weight:600;text-decoration:none;font-size:1.05rem;transition:background 0.2s;">查看今日早报 →</a>
+<a href="/ai-daily-site/2026/2026-06/2026-06-04/" style="display:inline-block;padding:0.75rem 2rem;background:#3b82f6;color:#fff;border-radius:0.5rem;font-weight:600;text-decoration:none;font-size:1.05rem;transition:background 0.2s;">查看今日早报 →</a>
 </div>
 <!-- TODAY_LINK_END -->
 
@@ -29,12 +29,12 @@ AI 日报
 
 <!-- LATEST_6_CARDS_START -->
 <div class="briefing-card-grid">
+<a href="/ai-daily-site/2026/2026-06/2026-06-04/" class="briefing-card"><strong>AI资讯日报 2026/6/4</strong><br><small>Alphabet（Google母公司）为 Google AI 融资 850 亿美元，算力军备战重磅加码 OpenAI 连发政策议程与治理蓝图</small></a>
 <a href="/ai-daily-site/2026/2026-06/2026-06-01/" class="briefing-card"><strong>AI资讯日报 2026/6/1</strong><br><small>2026-06-01</small></a>
 <a href="/ai-daily-site/2026/2026-05/2026-05-31/" class="briefing-card"><strong>AI资讯日报 2026/5/31</strong><br><small>2026-05-31</small></a>
 <a href="/ai-daily-site/2026/2026-05/2026-05-30/" class="briefing-card"><strong>AI资讯日报 2026/5/30</strong><br><small>2026-05-30</small></a>
 <a href="/ai-daily-site/2026/2026-05/2026-05-29/" class="briefing-card"><strong>AI资讯日报 2026/5/29</strong><br><small>2026-05-29</small></a>
 <a href="/ai-daily-site/2026/2026-05/2026-05-28/" class="briefing-card"><strong>AI资讯日报 2026/5/28</strong><br><small>2026-05-28</small></a>
-<a href="/ai-daily-site/2026/2026-05/2026-05-27/" class="briefing-card"><strong>AI资讯日报 2026/5/27</strong><br><small>2026-05-27</small></a>
 </div>
 <!-- LATEST_6_CARDS_END -->
 
