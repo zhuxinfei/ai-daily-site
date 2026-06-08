@@ -19,7 +19,7 @@ AI 日报
 
 <!-- TODAY_LINK_START -->
 <div style="text-align:center;margin-bottom:2rem;">
-<a href="/ai-daily-site/2026/2026-06/2026-06-08/" style="display:inline-block;padding:0.75rem 2rem;background:#3b82f6;color:#fff;border-radius:0.5rem;font-weight:600;text-decoration:none;font-size:1.05rem;transition:background 0.2s;">查看今日早报 →</a>
+<a href="/ai-daily-site/2026/2026-06/2026-06-09/" style="display:inline-block;padding:0.75rem 2rem;background:#3b82f6;color:#fff;border-radius:0.5rem;font-weight:600;text-decoration:none;font-size:1.05rem;transition:background 0.2s;">查看今日早报 →</a>
 </div>
 <!-- TODAY_LINK_END -->
 
@@ -29,12 +29,12 @@ AI 日报
 
 <!-- LATEST_6_CARDS_START -->
 <div class="briefing-card-grid">
+<a href="/ai-daily-site/2026/2026-06/2026-06-09/" class="briefing-card"><strong>AI资讯日报 2026/6/9</strong><br><small>Apple 联手 Google、Nvidia 押注更先进 AI 模型，WWDC 连发 Siri 改造与 Core AI</small></a>
 <a href="/ai-daily-site/2026/2026-06/2026-06-08/" class="briefing-card"><strong>AI资讯日报 2026/6/8</strong><br><small>OpenAI筹划ChatGPT上线以来最大改版，重心从聊天转向Agent，直奔“超级应用”入口 Apple借WWDC争AI第二次上场机会</small></a>
 <a href="/ai-daily-site/2026/2026-06/2026-06-07/" class="briefing-card"><strong>AI资讯日报 2026/6/7</strong><br><small>特朗普政府或入股 OpenAI，OpenAI 推 Lockdown Mode 防数据外泄 SpaceX（马斯克航天公司）签 Google 月付 9.</small></a>
 <a href="/ai-daily-site/2026/2026-06/2026-06-06/" class="briefing-card"><strong>AI资讯日报 2026/6/6</strong><br><small>Google 每月9.2亿美元砸向 SpaceX 买算力，AI 基建战重磅改道 美国政府被曝谈入股 OpenAI</small></a>
 <a href="/ai-daily-site/2026/2026-06/2026-06-05/" class="briefing-card"><strong>AI资讯日报 2026/6/5</strong><br><small>Microsoft 计划发布自研 AI 模型套件，正面拆解 OpenAI 依赖 OpenAI 推出生物防御行动计划</small></a>
 <a href="/ai-daily-site/2026/2026-06/2026-06-04/" class="briefing-card"><strong>AI资讯日报 2026/6/4</strong><br><small>Meta 开发者 AI 模型二度延期，Ideogram 4.0（AI 图像模型）开放权重直上原生 2K Anthropic 披露一年 AI 网络威胁</small></a>
-<a href="/ai-daily-site/2026/2026-06/2026-06-01/" class="briefing-card"><strong>AI资讯日报 2026/6/1</strong><br><small>2026-06-01</small></a>
 </div>
 <!-- LATEST_6_CARDS_END -->
 
