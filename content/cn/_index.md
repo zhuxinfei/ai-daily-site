@@ -19,7 +19,7 @@ AI 日报
 
 <!-- TODAY_LINK_START -->
 <div style="text-align:center;margin-bottom:2rem;">
-<a href="/ai-daily-site/2026/2026-06/2026-06-13/" style="display:inline-block;padding:0.75rem 2rem;background:#3b82f6;color:#fff;border-radius:0.5rem;font-weight:600;text-decoration:none;font-size:1.05rem;transition:background 0.2s;">查看今日早报 →</a>
+<a href="/ai-daily-site/2026/2026-06/2026-06-14/" style="display:inline-block;padding:0.75rem 2rem;background:#3b82f6;color:#fff;border-radius:0.5rem;font-weight:600;text-decoration:none;font-size:1.05rem;transition:background 0.2s;">查看今日早报 →</a>
 </div>
 <!-- TODAY_LINK_END -->
 
@@ -29,12 +29,12 @@ AI 日报
 
 <!-- LATEST_6_CARDS_START -->
 <div class="briefing-card-grid">
+<a href="/ai-daily-site/2026/2026-06/2026-06-14/" class="briefing-card"><strong>AI资讯日报 2026/6/14</strong><br><small>Visa 计划把支付能力接入 OpenAI，AI Agent 离自己下单付款只差最后一公里 特朗普限制外国用户使用 Anthropic 最新 AI</small></a>
 <a href="/ai-daily-site/2026/2026-06/2026-06-13/" class="briefing-card"><strong>AI资讯日报 2026/6/13</strong><br><small>Google 联合 FBI 起诉 AI 诈骗网络，生成式诈骗已规模化蔓延</small></a>
 <a href="/ai-daily-site/2026/2026-06/2026-06-12/" class="briefing-card"><strong>AI资讯日报 2026/6/12</strong><br><small>OpenAI 模型与 Codex 可直接走 Oracle Cloud 采购额度</small></a>
 <a href="/ai-daily-site/2026/2026-06/2026-06-11/" class="briefing-card"><strong>AI资讯日报 2026/6/11</strong><br><small>Anthropic 连发 Claude Fable 5 和 Mythos 5，Microsoft 随即限制员工使用</small></a>
 <a href="/ai-daily-site/2026/2026-06/2026-06-10/" class="briefing-card"><strong>AI资讯日报 2026/6/10</strong><br><small>Anthropic 连发 Claude Fable 5 与 Fable 5 游戏生成工具，还附 System Card 安全说明</small></a>
 <a href="/ai-daily-site/2026/2026-06/2026-06-09/" class="briefing-card"><strong>AI资讯日报 2026/6/9</strong><br><small>Apple 联手 Google、Nvidia 押注更先进 AI 模型，WWDC 连发 Siri 改造与 Core AI</small></a>
-<a href="/ai-daily-site/2026/2026-06/2026-06-08/" class="briefing-card"><strong>AI资讯日报 2026/6/8</strong><br><small>OpenAI筹划ChatGPT上线以来最大改版，重心从聊天转向Agent，直奔“超级应用”入口 Apple借WWDC争AI第二次上场机会</small></a>
 </div>
 <!-- LATEST_6_CARDS_END -->
 
