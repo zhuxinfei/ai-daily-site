@@ -19,7 +19,7 @@ AI 日报
 
 <!-- TODAY_LINK_START -->
 <div style="text-align:center;margin-bottom:2rem;">
-<a href="/ai-daily-site/2026/2026-06/2026-06-25/" style="display:inline-block;padding:0.75rem 2rem;background:#3b82f6;color:#fff;border-radius:0.5rem;font-weight:600;text-decoration:none;font-size:1.05rem;transition:background 0.2s;">查看今日早报 →</a>
+<a href="/ai-daily-site/2026/2026-06/2026-06-26/" style="display:inline-block;padding:0.75rem 2rem;background:#3b82f6;color:#fff;border-radius:0.5rem;font-weight:600;text-decoration:none;font-size:1.05rem;transition:background 0.2s;">查看今日早报 →</a>
 </div>
 <!-- TODAY_LINK_END -->
 
@@ -29,12 +29,12 @@ AI 日报
 
 <!-- LATEST_6_CARDS_START -->
 <div class="briefing-card-grid">
+<a href="/ai-daily-site/2026/2026-06/2026-06-26/" class="briefing-card"><strong>AI资讯日报 2026/6/26</strong><br><small>特朗普政府要求 OpenAI 错峰发模型，Claude 付费用户直追 ChatGPT Amazon 130 亿美元砸印度 AI 基建</small></a>
 <a href="/ai-daily-site/2026/2026-06/2026-06-25/" class="briefing-card"><strong>AI资讯日报 2026/6/25</strong><br><small>Anthropic 把 Claude Tag 直接塞进 Slack，企业聊天里 AI 标签协作开始落地 OpenAI 首款定制芯片交给 Broadcom 打造</small></a>
 <a href="/ai-daily-site/2026/2026-06/2026-06-24/" class="briefing-card"><strong>AI资讯日报 2026/6/24</strong><br><small>OpenAI 宣称 GPT-5.5-Cyber 安全测试超越 Anthropic Mythos</small></a>
 <a href="/ai-daily-site/2026/2026-06/2026-06-23/" class="briefing-card"><strong>AI资讯日报 2026/6/23</strong><br><small>Microsoft 得州豪建 2 吉瓦数据中心还自配燃气电厂，雪佛龙再签 20 年供电协议直冲算力饥渴 Groq 确认融资 6.</small></a>
 <a href="/ai-daily-site/2026/2026-06/2026-06-18/" class="briefing-card"><strong>AI资讯日报 2026/6/18</strong><br><small>智谱 GLM-5.2 登顶 Artificial Analysis，编程评测逼近闭源头部模型</small></a>
 <a href="/ai-daily-site/2026/2026-06/2026-06-17/" class="briefing-card"><strong>AI资讯日报 2026/6/17</strong><br><small>DeepSeek 首引外部融资估值冲上500亿美元，ChatGPT 全球市占率却首次跌破50% Anthropic 撤回计费改版先刹车</small></a>
-<a href="/ai-daily-site/2026/2026-06/2026-06-16/" class="briefing-card"><strong>AI资讯日报 2026/6/16</strong><br><small>OpenAI 推 Partner Network 豪砸1.5亿美元抢企业AI</small></a>
 </div>
 <!-- LATEST_6_CARDS_END -->
 
