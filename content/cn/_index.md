@@ -19,7 +19,7 @@ AI 日报
 
 <!-- TODAY_LINK_START -->
 <div style="text-align:center;margin-bottom:2rem;">
-<a href="/ai-daily-site/2026/2026-07/2026-07-08/" style="display:inline-block;padding:0.75rem 2rem;background:#3b82f6;color:#fff;border-radius:0.5rem;font-weight:600;text-decoration:none;font-size:1.05rem;transition:background 0.2s;">查看今日早报 →</a>
+<a href="/ai-daily-site/2026/2026-07/2026-07-09/" style="display:inline-block;padding:0.75rem 2rem;background:#3b82f6;color:#fff;border-radius:0.5rem;font-weight:600;text-decoration:none;font-size:1.05rem;transition:background 0.2s;">查看今日早报 →</a>
 </div>
 <!-- TODAY_LINK_END -->
 
@@ -29,12 +29,12 @@ AI 日报
 
 <!-- LATEST_6_CARDS_START -->
 <div class="briefing-card-grid">
+<a href="/ai-daily-site/2026/2026-07/2026-07-09/" class="briefing-card"><strong>AI资讯日报 2026/7/9</strong><br><small>xAI 连发 Grok 4.5 主打更便宜高性能，OpenAI 上线 GPT‑Live 与新语音模型抢占实时对话 Meta 加拿大首个大型数据中心落地</small></a>
 <a href="/ai-daily-site/2026/2026-07/2026-07-08/" class="briefing-card"><strong>AI资讯日报 2026/7/8</strong><br><small>美国企业转向中国 AI 模型，OpenAI 与 Anthropic 成本走高</small></a>
 <a href="/ai-daily-site/2026/2026-07/2026-07-07/" class="briefing-card"><strong>AI资讯日报 2026/7/7</strong><br><small>微软近5000人裁员重砍Xbox与销售，亚马逊关闭Mechanical Turk，AI吃掉的不只岗位是整条标注链 阿里巴巴因蒸馏攻击指控禁用Anthropic</small></a>
 <a href="/ai-daily-site/2026/2026-07/2026-07-06/" class="briefing-card"><strong>AI资讯日报 2026/7/6</strong><br><small>Seedance 2.0 让好莱坞又想禁又想用，Midjourney反手要求影视公司公开AI使用情况 Amazon Mechanical</small></a>
 <a href="/ai-daily-site/2026/2026-07/2026-07-05/" class="briefing-card"><strong>AI资讯日报 2026/7/5</strong><br><small>GPT 5.4 登陆 ChatGPT 带来 5 项改进，OpenAI 再压模型升级节奏 Anthropic 推 Claude Science Beta</small></a>
 <a href="/ai-daily-site/2026/2026-07/2026-07-04/" class="briefing-card"><strong>AI资讯日报 2026/7/4</strong><br><small>Tesla 把员工 AI 支出周封顶 200 美元</small></a>
-<a href="/ai-daily-site/2026/2026-07/2026-07-03/" class="briefing-card"><strong>AI资讯日报 2026/7/3</strong><br><small>Anthropic 发布 Claude Sonnet 5，Claude Code 系统提示词砍掉 80% 微软 Frontier</small></a>
 </div>
 <!-- LATEST_6_CARDS_END -->
 
