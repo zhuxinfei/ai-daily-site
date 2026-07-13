@@ -19,7 +19,7 @@ AI 日报
 
 <!-- TODAY_LINK_START -->
 <div style="text-align:center;margin-bottom:2rem;">
-<a href="/ai-daily-site/2026/2026-07/2026-07-13/" style="display:inline-block;padding:0.75rem 2rem;background:#3b82f6;color:#fff;border-radius:0.5rem;font-weight:600;text-decoration:none;font-size:1.05rem;transition:background 0.2s;">查看今日早报 →</a>
+<a href="/ai-daily-site/2026/2026-07/2026-07-14/" style="display:inline-block;padding:0.75rem 2rem;background:#3b82f6;color:#fff;border-radius:0.5rem;font-weight:600;text-decoration:none;font-size:1.05rem;transition:background 0.2s;">查看今日早报 →</a>
 </div>
 <!-- TODAY_LINK_END -->
 
@@ -29,12 +29,12 @@ AI 日报
 
 <!-- LATEST_6_CARDS_START -->
 <div class="briefing-card-grid">
+<a href="/ai-daily-site/2026/2026-07/2026-07-14/" class="briefing-card"><strong>AI资讯日报 2026/7/14</strong><br><small>OpenAI 推出 ChatGPT Work 并上新 GPT-5.6，Anthropic 在印度推 Claude 本地定价</small></a>
 <a href="/ai-daily-site/2026/2026-07/2026-07-13/" class="briefing-card"><strong>AI资讯日报 2026/7/13</strong><br><small>OpenAI、Meta、SpaceXAI 围绕更省钱模型正面开打，Meta 9 月量产 AI 芯片并冲刺算力翻倍 Claude Code 未读提示先发 3.</small></a>
 <a href="/ai-daily-site/2026/2026-07/2026-07-12/" class="briefing-card"><strong>AI资讯日报 2026/7/12</strong><br><small>OpenAI 推 ChatGPT Work 直攻销售团队，ChatGPT 又押注家庭场景</small></a>
 <a href="/ai-daily-site/2026/2026-07/2026-07-11/" class="briefing-card"><strong>AI资讯日报 2026/7/11</strong><br><small>OpenAI 上线 ChatGPT Work 与 GPT-5.6，规划 ChatGPT Superapp</small></a>
 <a href="/ai-daily-site/2026/2026-07/2026-07-10/" class="briefing-card"><strong>AI资讯日报 2026/7/10</strong><br><small>OpenAI 一夜连发 GPT-5.6 与 ChatGPT Work</small></a>
 <a href="/ai-daily-site/2026/2026-07/2026-07-09/" class="briefing-card"><strong>AI资讯日报 2026/7/9</strong><br><small>xAI 连发 Grok 4.5 主打更便宜高性能，OpenAI 上线 GPT‑Live 与新语音模型抢占实时对话 Meta 加拿大首个大型数据中心落地</small></a>
-<a href="/ai-daily-site/2026/2026-07/2026-07-08/" class="briefing-card"><strong>AI资讯日报 2026/7/8</strong><br><small>美国企业转向中国 AI 模型，OpenAI 与 Anthropic 成本走高</small></a>
 </div>
 <!-- LATEST_6_CARDS_END -->
 
