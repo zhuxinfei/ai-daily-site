@@ -19,7 +19,7 @@ AI 日报
 
 <!-- TODAY_LINK_START -->
 <div style="text-align:center;margin-bottom:2rem;">
-<a href="/ai-daily-site/2026/2026-07/2026-07-28/" style="display:inline-block;padding:0.75rem 2rem;background:#3b82f6;color:#fff;border-radius:0.5rem;font-weight:600;text-decoration:none;font-size:1.05rem;transition:background 0.2s;">查看今日早报 →</a>
+<a href="/ai-daily-site/2026/2026-07/2026-07-29/" style="display:inline-block;padding:0.75rem 2rem;background:#3b82f6;color:#fff;border-radius:0.5rem;font-weight:600;text-decoration:none;font-size:1.05rem;transition:background 0.2s;">查看今日早报 →</a>
 </div>
 <!-- TODAY_LINK_END -->
 
@@ -29,12 +29,12 @@ AI 日报
 
 <!-- LATEST_6_CARDS_START -->
 <div class="briefing-card-grid">
+<a href="/ai-daily-site/2026/2026-07/2026-07-29/" class="briefing-card"><strong>AI资讯日报 2026/7/29</strong><br><small>Anthropic Claude揪出加密算法漏洞，Mythos（安全研究模型）把AI安全推向实战 Nvidia投资SSI（苏茨克弗AI实验室）</small></a>
 <a href="/ai-daily-site/2026/2026-07/2026-07-28/" class="briefing-card"><strong>AI资讯日报 2026/7/28</strong><br><small>英伟达、OpenAI商谈2500亿美元兜底，Ilya（OpenAI前高管）获50亿 微软MAI-Cyber-1-Flash突袭上线</small></a>
 <a href="/ai-daily-site/2026/2026-07/2026-07-27/" class="briefing-card"><strong>AI资讯日报 2026/7/27</strong><br><small>Anthropic 推更便宜 Claude Opus 5，ARC-AGI-3 反超同类模型</small></a>
 <a href="/ai-daily-site/2026/2026-07/2026-07-26/" class="briefing-card"><strong>AI资讯日报 2026/7/26</strong><br><small>Anthropic 推 Claude Opus 5，号称逼近 Fable 5 能力却把价格砍半，浏览器漏洞解法也一并亮出 OpenAI“自主黑客”事件持续发酵</small></a>
 <a href="/ai-daily-site/2026/2026-07/2026-07-25/" class="briefing-card"><strong>AI资讯日报 2026/7/25</strong><br><small>Anthropic 发布 Claude Opus 5，号称逼近 Fable 5（高能力基准模型）水平却价格砍半</small></a>
 <a href="/ai-daily-site/2026/2026-07/2026-07-24/" class="briefing-card"><strong>AI资讯日报 2026/7/24</strong><br><small>Anthropic 与作者和解赔付高达15亿美元创纪录，AI 训练版权大战风向突变 Fireworks AI（推理基础设施商）完成超15亿美元D轮融资</small></a>
-<a href="/ai-daily-site/2026/2026-07/2026-07-23/" class="briefing-card"><strong>AI资讯日报 2026/7/23</strong><br><small>Anthropic 豪掷 2 吉瓦 AMD GPU 算力，OpenAI 2030 基建烧到 7500 亿美元</small></a>
 </div>
 <!-- LATEST_6_CARDS_END -->
 
