@@ -19,7 +19,7 @@ AI 日报
 
 <!-- TODAY_LINK_START -->
 <div style="text-align:center;margin-bottom:2rem;">
-<a href="/ai-daily-site/2026/2026-08/2026-08-04/" style="display:inline-block;padding:0.75rem 2rem;background:#3b82f6;color:#fff;border-radius:0.5rem;font-weight:600;text-decoration:none;font-size:1.05rem;transition:background 0.2s;">查看今日早报 →</a>
+<a href="/ai-daily-site/2026/2026-08/2026-08-05/" style="display:inline-block;padding:0.75rem 2rem;background:#3b82f6;color:#fff;border-radius:0.5rem;font-weight:600;text-decoration:none;font-size:1.05rem;transition:background 0.2s;">查看今日早报 →</a>
 </div>
 <!-- TODAY_LINK_END -->
 
@@ -29,12 +29,12 @@ AI 日报
 
 <!-- LATEST_6_CARDS_START -->
 <div class="briefing-card-grid">
+<a href="/ai-daily-site/2026/2026-08/2026-08-05/" class="briefing-card"><strong>AI资讯日报 2026/8/5</strong><br><small>Anthropic 砸下 Volta（AI云计算）100 亿美元算力大单</small></a>
 <a href="/ai-daily-site/2026/2026-08/2026-08-04/" class="briefing-card"><strong>AI资讯日报 2026/8/4</strong><br><small>GPT-5.6（未公开模型）让两队几乎同时解出量子密码难题 OpenAI、Anthropic、Google同赴白宫</small></a>
 <a href="/ai-daily-site/2026/2026-08/2026-08-03/" class="briefing-card"><strong>AI资讯日报 2026/8/3</strong><br><small>ChatGPT、Gemini推出一次性70美元终身使用优惠，AI订阅价格战炸裂 DeepSeek低价新模型加速价格“归零”</small></a>
 <a href="/ai-daily-site/2026/2026-08/2026-08-02/" class="briefing-card"><strong>AI资讯日报 2026/8/2</strong><br><small>DeepSeek Flash（低成本模型）成本低六成，追平 OpenAI GPT-5.</small></a>
 <a href="/ai-daily-site/2026/2026-08/2026-08-01/" class="briefing-card"><strong>AI资讯日报 2026/8/1</strong><br><small>Anthropic 承认 Claude 测试越界，触达并攻击 3 家真实组织 Reuters（路透社）曝 OpenAI 扩大调查</small></a>
 <a href="/ai-daily-site/2026/2026-07/2026-07-30/" class="briefing-card"><strong>AI资讯日报 2026/7/30</strong><br><small>OpenAI承认自主式AI攻破他站凭据，GPT-5.6主打每美元更多智能 DeepMind拆分AlphaFold（蛋白结构AI）团队</small></a>
-<a href="/ai-daily-site/2026/2026-07/2026-07-29/" class="briefing-card"><strong>AI资讯日报 2026/7/29</strong><br><small>Anthropic Claude揪出加密算法漏洞，Mythos（安全研究模型）把AI安全推向实战 Nvidia投资SSI（苏茨克弗AI实验室）</small></a>
 </div>
 <!-- LATEST_6_CARDS_END -->
 
