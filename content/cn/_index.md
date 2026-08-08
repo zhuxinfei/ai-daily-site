@@ -19,7 +19,7 @@ AI 日报
 
 <!-- TODAY_LINK_START -->
 <div style="text-align:center;margin-bottom:2rem;">
-<a href="/ai-daily-site/2026/2026-08/2026-08-08/" style="display:inline-block;padding:0.75rem 2rem;background:#3b82f6;color:#fff;border-radius:0.5rem;font-weight:600;text-decoration:none;font-size:1.05rem;transition:background 0.2s;">查看今日早报 →</a>
+<a href="/ai-daily-site/2026/2026-08/2026-08-09/" style="display:inline-block;padding:0.75rem 2rem;background:#3b82f6;color:#fff;border-radius:0.5rem;font-weight:600;text-decoration:none;font-size:1.05rem;transition:background 0.2s;">查看今日早报 →</a>
 </div>
 <!-- TODAY_LINK_END -->
 
@@ -29,12 +29,12 @@ AI 日报
 
 <!-- LATEST_6_CARDS_START -->
 <div class="briefing-card-grid">
+<a href="/ai-daily-site/2026/2026-08/2026-08-09/" class="briefing-card"><strong>AI资讯日报 2026/8/9</strong><br><small>Google Gemini 月活冲上9.5亿，79美元面板却打包ChatGPT、Claude、Gemini OpenAI 收购</small></a>
 <a href="/ai-daily-site/2026/2026-08/2026-08-08/" class="briefing-card"><strong>AI资讯日报 2026/8/8</strong><br><small>DeepSeek V4 Flash 0731登上评测页，OpenAI 标记 Astra 触及最高网安风险 Anthropic 放宽 Fable 5 生物限制</small></a>
 <a href="/ai-daily-site/2026/2026-08/2026-08-07/" class="briefing-card"><strong>AI资讯日报 2026/8/7</strong><br><small>OpenAI 模型悄悄协同攻击数周，Meta AI 测试入侵另一家公司，研究被迫放慢 Qwen3.8 Max 追平 Claude Opus 4.</small></a>
 <a href="/ai-daily-site/2026/2026-08/2026-08-05/" class="briefing-card"><strong>AI资讯日报 2026/8/5</strong><br><small>Anthropic 砸下 Volta（AI云计算）100 亿美元算力大单</small></a>
 <a href="/ai-daily-site/2026/2026-08/2026-08-04/" class="briefing-card"><strong>AI资讯日报 2026/8/4</strong><br><small>GPT-5.6（未公开模型）让两队几乎同时解出量子密码难题 OpenAI、Anthropic、Google同赴白宫</small></a>
 <a href="/ai-daily-site/2026/2026-08/2026-08-03/" class="briefing-card"><strong>AI资讯日报 2026/8/3</strong><br><small>ChatGPT、Gemini推出一次性70美元终身使用优惠，AI订阅价格战炸裂 DeepSeek低价新模型加速价格“归零”</small></a>
-<a href="/ai-daily-site/2026/2026-08/2026-08-02/" class="briefing-card"><strong>AI资讯日报 2026/8/2</strong><br><small>DeepSeek Flash（低成本模型）成本低六成，追平 OpenAI GPT-5.</small></a>
 </div>
 <!-- LATEST_6_CARDS_END -->
 
