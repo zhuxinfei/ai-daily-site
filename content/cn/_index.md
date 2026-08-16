@@ -19,7 +19,7 @@ AI 日报
 
 <!-- TODAY_LINK_START -->
 <div style="text-align:center;margin-bottom:2rem;">
-<a href="/ai-daily-site/2026/2026-08/2026-08-16/" style="display:inline-block;padding:0.75rem 2rem;background:#3b82f6;color:#fff;border-radius:0.5rem;font-weight:600;text-decoration:none;font-size:1.05rem;transition:background 0.2s;">查看今日早报 →</a>
+<a href="/ai-daily-site/2026/2026-08/2026-08-17/" style="display:inline-block;padding:0.75rem 2rem;background:#3b82f6;color:#fff;border-radius:0.5rem;font-weight:600;text-decoration:none;font-size:1.05rem;transition:background 0.2s;">查看今日早报 →</a>
 </div>
 <!-- TODAY_LINK_END -->
 
@@ -29,12 +29,12 @@ AI 日报
 
 <!-- LATEST_6_CARDS_START -->
 <div class="briefing-card-grid">
+<a href="/ai-daily-site/2026/2026-08/2026-08-17/" class="briefing-card"><strong>AI资讯日报 2026/8/17</strong><br><small>Anthropic 推出 Claude Opus 5 主打低成本，生物武器过滤器停摆近一年涉 1.</small></a>
 <a href="/ai-daily-site/2026/2026-08/2026-08-16/" class="briefing-card"><strong>AI资讯日报 2026/8/16</strong><br><small>Qwen 3.8 开放权重直发 Apache 2.0，Apple 地图开广告，Siri 推内容合作 Nvidia 豪掷30亿美元建电力基础设施</small></a>
 <a href="/ai-daily-site/2026/2026-08/2026-08-15/" class="briefing-card"><strong>AI资讯日报 2026/8/15</strong><br><small>DeepSeek V4 Pro开源Agent软件却上调API价，Qwen 3.8以Apache 2.</small></a>
 <a href="/ai-daily-site/2026/2026-08/2026-08-13/" class="briefing-card"><strong>AI资讯日报 2026/8/13</strong><br><small>OpenAI推出ChatGPT Linux桌面应用，称企业正从辅助使用迈向AI自主执行 Anthropic聘法律创业者Robert Mahari</small></a>
 <a href="/ai-daily-site/2026/2026-08/2026-08-12/" class="briefing-card"><strong>AI资讯日报 2026/8/12</strong><br><small>Google Gemini用户冲到10亿，OpenAI在ChatGPT测试广告 Anthropic给Claude全球输出加水印</small></a>
 <a href="/ai-daily-site/2026/2026-08/2026-08-10/" class="briefing-card"><strong>AI资讯日报 2026/8/10</strong><br><small>OpenAI 收购 NextSlide（演示创业公司），ChatGPT 补上演示文稿能力</small></a>
-<a href="/ai-daily-site/2026/2026-08/2026-08-09/" class="briefing-card"><strong>AI资讯日报 2026/8/9</strong><br><small>Google Gemini 月活冲上9.5亿，79美元面板却打包ChatGPT、Claude、Gemini OpenAI 收购</small></a>
 </div>
 <!-- LATEST_6_CARDS_END -->
 
