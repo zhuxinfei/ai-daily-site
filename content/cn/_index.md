@@ -19,7 +19,7 @@ AI 日报
 
 <!-- TODAY_LINK_START -->
 <div style="text-align:center;margin-bottom:2rem;">
-<a href="/ai-daily-site/2026/2026-09/2026-09-01/" style="display:inline-block;padding:0.75rem 2rem;background:#3b82f6;color:#fff;border-radius:0.5rem;font-weight:600;text-decoration:none;font-size:1.05rem;transition:background 0.2s;">查看今日早报 →</a>
+<a href="/ai-daily-site/2026/2026-09/2026-09-02/" style="display:inline-block;padding:0.75rem 2rem;background:#3b82f6;color:#fff;border-radius:0.5rem;font-weight:600;text-decoration:none;font-size:1.05rem;transition:background 0.2s;">查看今日早报 →</a>
 </div>
 <!-- TODAY_LINK_END -->
 
@@ -29,12 +29,12 @@ AI 日报
 
 <!-- LATEST_6_CARDS_START -->
 <div class="briefing-card-grid">
+<a href="/ai-daily-site/2026/2026-09/2026-09-02/" class="briefing-card"><strong>AI资讯日报 2026/9/2</strong><br><small>Anthropic 发布 Claude Fable 5.1，降成本还要减少误报 OpenAI 让数字病历接入 ChatGPT</small></a>
 <a href="/ai-daily-site/2026/2026-09/2026-09-01/" class="briefing-card"><strong>AI资讯日报 2026/9/1</strong><br><small>ChatGPT 被欧盟按超大型搜索引擎监管，广告年化收入已达10亿美元 英伟达押注 MediaTek（芯片设计公司）</small></a>
 <a href="/ai-daily-site/2026/2026-08/2026-08-31/" class="briefing-card"><strong>AI资讯日报 2026/8/31</strong><br><small>Sony（索尼音乐）和 Warner（华纳音乐）起诉 Anthropic</small></a>
 <a href="/ai-daily-site/2026/2026-08/2026-08-20/" class="briefing-card"><strong>AI资讯日报 2026/8/20</strong><br><small>中国少量放行 H200（英伟达高端 AI 芯片）入华，本土 AI 公司追赶节奏再提速 Anthropic 语言模型智能体跑完整蛋白设计流程</small></a>
 <a href="/ai-daily-site/2026/2026-08/2026-08-19/" class="briefing-card"><strong>AI资讯日报 2026/8/19</strong><br><small>OpenAI因网络安全风险放慢模型迭代，ChatGPT青少年版重磅上线强化保护 StateM（终端任务模型）在Terminal-Bench 2.</small></a>
 <a href="/ai-daily-site/2026/2026-08/2026-08-18/" class="briefing-card"><strong>AI资讯日报 2026/8/18</strong><br><small>OpenAI 俄亥俄锁定创纪录数据中心租约，Nvidia 15 亿美元押注 OpenAI 机房 Google 搜索 AI Mode 直接启用 Gemini 3.</small></a>
-<a href="/ai-daily-site/2026/2026-08/2026-08-17/" class="briefing-card"><strong>AI资讯日报 2026/8/17</strong><br><small>Anthropic 推出 Claude Opus 5 主打低成本，生物武器过滤器停摆近一年涉 1.</small></a>
 </div>
 <!-- LATEST_6_CARDS_END -->
 
