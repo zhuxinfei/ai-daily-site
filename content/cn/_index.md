@@ -19,7 +19,7 @@ AI 日报
 
 <!-- TODAY_LINK_START -->
 <div style="text-align:center;margin-bottom:2rem;">
-<a href="/ai-daily-site/2026/2026-09/2026-09-04/" style="display:inline-block;padding:0.75rem 2rem;background:#3b82f6;color:#fff;border-radius:0.5rem;font-weight:600;text-decoration:none;font-size:1.05rem;transition:background 0.2s;">查看今日早报 →</a>
+<a href="/ai-daily-site/2026/2026-09/2026-09-05/" style="display:inline-block;padding:0.75rem 2rem;background:#3b82f6;color:#fff;border-radius:0.5rem;font-weight:600;text-decoration:none;font-size:1.05rem;transition:background 0.2s;">查看今日早报 →</a>
 </div>
 <!-- TODAY_LINK_END -->
 
@@ -29,12 +29,12 @@ AI 日报
 
 <!-- LATEST_6_CARDS_START -->
 <div class="briefing-card-grid">
+<a href="/ai-daily-site/2026/2026-09/2026-09-05/" class="briefing-card"><strong>AI资讯日报 2026/9/5</strong><br><small>Google Gemini 上线 Lyria 3.5（音乐模型）</small></a>
 <a href="/ai-daily-site/2026/2026-09/2026-09-04/" class="briefing-card"><strong>AI资讯日报 2026/9/4</strong><br><small>Anthropic 连发 Claude Fable 5.1、Mythos 5.</small></a>
 <a href="/ai-daily-site/2026/2026-09/2026-09-03/" class="briefing-card"><strong>AI资讯日报 2026/9/3</strong><br><small>OpenAI称Astra迄今最危险，枪击案再引30起诉讼 Google Pics（图片工具）开放试用</small></a>
 <a href="/ai-daily-site/2026/2026-09/2026-09-02/" class="briefing-card"><strong>AI资讯日报 2026/9/2</strong><br><small>Anthropic 发布 Claude Fable 5.1，降成本还要减少误报 OpenAI 让数字病历接入 ChatGPT</small></a>
 <a href="/ai-daily-site/2026/2026-09/2026-09-01/" class="briefing-card"><strong>AI资讯日报 2026/9/1</strong><br><small>ChatGPT 被欧盟按超大型搜索引擎监管，广告年化收入已达10亿美元 英伟达押注 MediaTek（芯片设计公司）</small></a>
 <a href="/ai-daily-site/2026/2026-08/2026-08-31/" class="briefing-card"><strong>AI资讯日报 2026/8/31</strong><br><small>Sony（索尼音乐）和 Warner（华纳音乐）起诉 Anthropic</small></a>
-<a href="/ai-daily-site/2026/2026-08/2026-08-20/" class="briefing-card"><strong>AI资讯日报 2026/8/20</strong><br><small>中国少量放行 H200（英伟达高端 AI 芯片）入华，本土 AI 公司追赶节奏再提速 Anthropic 语言模型智能体跑完整蛋白设计流程</small></a>
 </div>
 <!-- LATEST_6_CARDS_END -->
 
