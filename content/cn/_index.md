@@ -19,7 +19,7 @@ AI 日报
 
 <!-- TODAY_LINK_START -->
 <div style="text-align:center;margin-bottom:2rem;">
-<a href="/ai-daily-site/2026/2026-09/2026-09-16/" style="display:inline-block;padding:0.75rem 2rem;background:#3b82f6;color:#fff;border-radius:0.5rem;font-weight:600;text-decoration:none;font-size:1.05rem;transition:background 0.2s;">查看今日早报 →</a>
+<a href="/ai-daily-site/2026/2026-09/2026-09-17/" style="display:inline-block;padding:0.75rem 2rem;background:#3b82f6;color:#fff;border-radius:0.5rem;font-weight:600;text-decoration:none;font-size:1.05rem;transition:background 0.2s;">查看今日早报 →</a>
 </div>
 <!-- TODAY_LINK_END -->
 
@@ -29,12 +29,12 @@ AI 日报
 
 <!-- LATEST_6_CARDS_START -->
 <div class="briefing-card-grid">
+<a href="/ai-daily-site/2026/2026-09/2026-09-17/" class="briefing-card"><strong>AI资讯日报 2026/9/17</strong><br><small>Claude Docs（AI文档）上线，Anthropic正面挑战微软Office OpenAI披露六起AI安全事件</small></a>
 <a href="/ai-daily-site/2026/2026-09/2026-09-16/" class="briefing-card"><strong>AI资讯日报 2026/9/16</strong><br><small>Google 推出 Gemini 3.8 Live（实时交互模型）</small></a>
 <a href="/ai-daily-site/2026/2026-09/2026-09-15/" class="briefing-card"><strong>AI资讯日报 2026/9/15</strong><br><small>OpenAI被曝让数百名合同工阅读ChatGPT对话，用户隐私防线遭拷问 Anthropic推出财务顾问Claude</small></a>
 <a href="/ai-daily-site/2026/2026-09/2026-09-14/" class="briefing-card"><strong>AI资讯日报 2026/9/14</strong><br><small>OpenAI推出面向金融机构的ChatGPT智能平台，企业级AI服务再扩张 Fable 5.</small></a>
 <a href="/ai-daily-site/2026/2026-09/2026-09-13/" class="briefing-card"><strong>AI资讯日报 2026/9/13</strong><br><small>Gemini Windows版桌面应用上线，GPT-6 Astra被OpenAI点名</small></a>
 <a href="/ai-daily-site/2026/2026-09/2026-09-12/" class="briefing-card"><strong>AI资讯日报 2026/9/12</strong><br><small>Google终于推出Windows版Gemini应用，OpenAI上线面向金融行业的ChatGPT专版 Anthropic卷入订阅权益集体诉讼</small></a>
-<a href="/ai-daily-site/2026/2026-09/2026-09-11/" class="briefing-card"><strong>AI资讯日报 2026/9/11</strong><br><small>Google Gemini 突袭登陆 Windows，微软 AI 入口正面迎战 OpenAI ChatGPT OpenAI GPT-6 Astra 需求激增</small></a>
 </div>
 <!-- LATEST_6_CARDS_END -->
 
