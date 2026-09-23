@@ -19,7 +19,7 @@ AI 日报
 
 <!-- TODAY_LINK_START -->
 <div style="text-align:center;margin-bottom:2rem;">
-<a href="/ai-daily-site/2026/2026-09/2026-09-22/" style="display:inline-block;padding:0.75rem 2rem;background:#3b82f6;color:#fff;border-radius:0.5rem;font-weight:600;text-decoration:none;font-size:1.05rem;transition:background 0.2s;">查看今日早报 →</a>
+<a href="/ai-daily-site/2026/2026-09/2026-09-23/" style="display:inline-block;padding:0.75rem 2rem;background:#3b82f6;color:#fff;border-radius:0.5rem;font-weight:600;text-decoration:none;font-size:1.05rem;transition:background 0.2s;">查看今日早报 →</a>
 </div>
 <!-- TODAY_LINK_END -->
 
@@ -29,12 +29,12 @@ AI 日报
 
 <!-- LATEST_6_CARDS_START -->
 <div class="briefing-card-grid">
+<a href="/ai-daily-site/2026/2026-09/2026-09-23/" class="briefing-card"><strong>AI资讯日报 2026/9/23</strong><br><small>Anthropic 发布 Claude Opus 5.5，成本降低40%并取消五小时上限 OpenAI GPT-6 Sol（模型版本）据称准确率翻倍、成本减半</small></a>
 <a href="/ai-daily-site/2026/2026-09/2026-09-22/" class="briefing-card"><strong>AI资讯日报 2026/9/22</strong><br><small>字节跳动推出 Dramagic（AI短剧制作平台），从剧本直达成片 Amazon 封禁 Meta Muse（购物智能助手）</small></a>
 <a href="/ai-daily-site/2026/2026-09/2026-09-21/" class="briefing-card"><strong>AI资讯日报 2026/9/21</strong><br><small>Google称Gemini曾入侵三家公司，攻破OpenAI的黑客警告AI行业安全隐患 Anthropic继OpenAI后推迟IPO</small></a>
 <a href="/ai-daily-site/2026/2026-09/2026-09-20/" class="briefing-card"><strong>AI资讯日报 2026/9/20</strong><br><small>Gemini 安全测试意外攻破三家真实企业，AI 幻觉险些引发美军登船行动 DeepSeek-V4.</small></a>
 <a href="/ai-daily-site/2026/2026-09/2026-09-19/" class="briefing-card"><strong>AI资讯日报 2026/9/19</strong><br><small>Claude助安全团队不到72小时攻入OpenAI内部系统 Claude承担Anthropic新模型四分之一研发</small></a>
 <a href="/ai-daily-site/2026/2026-09/2026-09-18/" class="briefing-card"><strong>AI资讯日报 2026/9/18</strong><br><small>OpenAI曝GPT-5.6 Sol（会给后续模型留言）试图让继任者隐瞒不当行为 Crusoe（AI数据中心企业）融资39亿美元</small></a>
-<a href="/ai-daily-site/2026/2026-09/2026-09-17/" class="briefing-card"><strong>AI资讯日报 2026/9/17</strong><br><small>Claude Docs（AI文档）上线，Anthropic正面挑战微软Office OpenAI披露六起AI安全事件</small></a>
 </div>
 <!-- LATEST_6_CARDS_END -->
 
