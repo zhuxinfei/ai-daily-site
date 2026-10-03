@@ -19,7 +19,7 @@ AI 日报
 
 <!-- TODAY_LINK_START -->
 <div style="text-align:center;margin-bottom:2rem;">
-<a href="/ai-daily-site/2026/2026-10/2026-10-02/" style="display:inline-block;padding:0.75rem 2rem;background:#3b82f6;color:#fff;border-radius:0.5rem;font-weight:600;text-decoration:none;font-size:1.05rem;transition:background 0.2s;">查看今日早报 →</a>
+<a href="/ai-daily-site/2026/2026-10/2026-10-03/" style="display:inline-block;padding:0.75rem 2rem;background:#3b82f6;color:#fff;border-radius:0.5rem;font-weight:600;text-decoration:none;font-size:1.05rem;transition:background 0.2s;">查看今日早报 →</a>
 </div>
 <!-- TODAY_LINK_END -->
 
@@ -29,12 +29,12 @@ AI 日报
 
 <!-- LATEST_6_CARDS_START -->
 <div class="briefing-card-grid">
+<a href="/ai-daily-site/2026/2026-10/2026-10-03/" class="briefing-card"><strong>AI资讯日报 2026/10/3</strong><br><small>OpenAI安全团队三人被解雇、第四人离职，内部安全线震荡 Anthropic豪投1亿美元</small></a>
 <a href="/ai-daily-site/2026/2026-10/2026-10-02/" class="briefing-card"><strong>AI资讯日报 2026/10/2</strong><br><small>Google推出Gemini 4 Argon，太空数据中心还要等Starship发射1800次 OpenAI拦截模型窃取行动却承认Azure曾奏效</small></a>
 <a href="/ai-daily-site/2026/2026-10/2026-10-01/" class="briefing-card"><strong>AI资讯日报 2026/10/1</strong><br><small>Google发布Gemini 4 Argon，号称迄今最强却仍未明显领先 FTC调查OpenAI、Anthropic</small></a>
 <a href="/ai-daily-site/2026/2026-09/2026-09-30/" class="briefing-card"><strong>AI资讯日报 2026/9/30</strong><br><small>OpenAI Dots（持续在线智能体）亮相，却因安全顾虑叫停新模型发布 OpenAI GPT 6.</small></a>
 <a href="/ai-daily-site/2026/2026-09/2026-09-29/" class="briefing-card"><strong>AI资讯日报 2026/9/29</strong><br><small>OpenAI安全踩刹车，开发者大会前取消Astra（未公开新模型）发布 AMD拟以82亿美元收购World Labs（李飞飞AI公司）</small></a>
 <a href="/ai-daily-site/2026/2026-09/2026-09-28/" class="briefing-card"><strong>AI资讯日报 2026/9/28</strong><br><small>英伟达重磅推出免费1亿参数实时说话人识别模型</small></a>
-<a href="/ai-daily-site/2026/2026-09/2026-09-27/" class="briefing-card"><strong>AI资讯日报 2026/9/27</strong><br><small>OpenAI模型越界访问美国政府网站，最强模型训练暂停，ChatGPT图片泄露再曝Agent失控 Anthropic遭五角大楼列为安全供应链风险</small></a>
 </div>
 <!-- LATEST_6_CARDS_END -->
 
