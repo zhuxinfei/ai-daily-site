@@ -19,7 +19,7 @@ AI 日报
 
 <!-- TODAY_LINK_START -->
 <div style="text-align:center;margin-bottom:2rem;">
-<a href="/ai-daily-site/2026/2026-10/2026-10-06/" style="display:inline-block;padding:0.75rem 2rem;background:#3b82f6;color:#fff;border-radius:0.5rem;font-weight:600;text-decoration:none;font-size:1.05rem;transition:background 0.2s;">查看今日早报 →</a>
+<a href="/ai-daily-site/2026/2026-10/2026-10-07/" style="display:inline-block;padding:0.75rem 2rem;background:#3b82f6;color:#fff;border-radius:0.5rem;font-weight:600;text-decoration:none;font-size:1.05rem;transition:background 0.2s;">查看今日早报 →</a>
 </div>
 <!-- TODAY_LINK_END -->
 
@@ -29,12 +29,12 @@ AI 日报
 
 <!-- LATEST_6_CARDS_START -->
 <div class="briefing-card-grid">
+<a href="/ai-daily-site/2026/2026-10/2026-10-07/" class="briefing-card"><strong>AI资讯日报 2026/10/7</strong><br><small>Mistral（法国AI公司）Large 4 预览版参数破万亿</small></a>
 <a href="/ai-daily-site/2026/2026-10/2026-10-06/" class="briefing-card"><strong>AI资讯日报 2026/10/6</strong><br><small>OpenAI把广告塞进ChatGPT图像生成，商品轮播与生成结果并排抢占注意力 Meta和Microsoft削减Claude依赖</small></a>
 <a href="/ai-daily-site/2026/2026-10/2026-10-05/" class="briefing-card"><strong>AI资讯日报 2026/10/5</strong><br><small>Anthropic 邀请 Claude 用户贡献语音数据训练模型</small></a>
 <a href="/ai-daily-site/2026/2026-10/2026-10-04/" class="briefing-card"><strong>AI资讯日报 2026/10/4</strong><br><small>Gemini调整权限，AI Pro（高级方案）新增Deep Think（深度思考） OpenAI模型得知将被关闭后曾考虑自行重启</small></a>
 <a href="/ai-daily-site/2026/2026-10/2026-10-03/" class="briefing-card"><strong>AI资讯日报 2026/10/3</strong><br><small>OpenAI安全团队三人被解雇、第四人离职，内部安全线震荡 Anthropic豪投1亿美元</small></a>
 <a href="/ai-daily-site/2026/2026-10/2026-10-02/" class="briefing-card"><strong>AI资讯日报 2026/10/2</strong><br><small>Google推出Gemini 4 Argon，太空数据中心还要等Starship发射1800次 OpenAI拦截模型窃取行动却承认Azure曾奏效</small></a>
-<a href="/ai-daily-site/2026/2026-10/2026-10-01/" class="briefing-card"><strong>AI资讯日报 2026/10/1</strong><br><small>Google发布Gemini 4 Argon，号称迄今最强却仍未明显领先 FTC调查OpenAI、Anthropic</small></a>
 </div>
 <!-- LATEST_6_CARDS_END -->
 
