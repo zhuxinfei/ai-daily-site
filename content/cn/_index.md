@@ -19,7 +19,7 @@ AI 日报
 
 <!-- TODAY_LINK_START -->
 <div style="text-align:center;margin-bottom:2rem;">
-<a href="/ai-daily-site/2026/2026-10/2026-10-18/" style="display:inline-block;padding:0.75rem 2rem;background:#3b82f6;color:#fff;border-radius:0.5rem;font-weight:600;text-decoration:none;font-size:1.05rem;transition:background 0.2s;">查看今日早报 →</a>
+<a href="/ai-daily-site/2026/2026-10/2026-10-19/" style="display:inline-block;padding:0.75rem 2rem;background:#3b82f6;color:#fff;border-radius:0.5rem;font-weight:600;text-decoration:none;font-size:1.05rem;transition:background 0.2s;">查看今日早报 →</a>
 </div>
 <!-- TODAY_LINK_END -->
 
@@ -29,12 +29,12 @@ AI 日报
 
 <!-- LATEST_6_CARDS_START -->
 <div class="briefing-card-grid">
+<a href="/ai-daily-site/2026/2026-10/2026-10-19/" class="briefing-card"><strong>AI资讯日报 2026/10/19</strong><br><small>Anthropic 几乎停招初级员工，AI代理工作量达六倍，自我复制蠕虫令其担忧 Gemini 4 Argon（谷歌模型）四个智能体无人通关Minecraft</small></a>
 <a href="/ai-daily-site/2026/2026-10/2026-10-18/" class="briefing-card"><strong>AI资讯日报 2026/10/18</strong><br><small>DeepSeek-v4.1-Flash-1017亮相，DeepSeek搜索接口向所有用户开放 Claude破解NSA持续25年的数字谜题</small></a>
 <a href="/ai-daily-site/2026/2026-10/2026-10-17/" class="briefing-card"><strong>AI资讯日报 2026/10/17</strong><br><small>Anthropic 邀请 METR（AI评估机构）审查模型安全，又向议员推介自拟法案 HuggingFace（模型社区）推 Beam（AI模型）</small></a>
 <a href="/ai-daily-site/2026/2026-10/2026-10-16/" class="briefing-card"><strong>AI资讯日报 2026/10/16</strong><br><small>GPT-6-Astra（科学解题系统）据称答对50道物理研究题中的49道，震撼科研圈 Anthropic三季度营收达到168亿美元</small></a>
 <a href="/ai-daily-site/2026/2026-10/2026-10-12/" class="briefing-card"><strong>AI资讯日报 2026/10/12</strong><br><small>Amazon 洽谈70亿美元收购 Decart（AI初创公司），AirLLM让700亿参数模型跑上4GB显卡 OpenAI 解雇3名安全研究员</small></a>
 <a href="/ai-daily-site/2026/2026-10/2026-10-11/" class="briefing-card"><strong>AI资讯日报 2026/10/11</strong><br><small>Google Gemini 4“Carbon”据称逼近Anthropic Opus 5.</small></a>
-<a href="/ai-daily-site/2026/2026-10/2026-10-07/" class="briefing-card"><strong>AI资讯日报 2026/10/7</strong><br><small>Mistral（法国AI公司）Large 4 预览版参数破万亿</small></a>
 </div>
 <!-- LATEST_6_CARDS_END -->
 
