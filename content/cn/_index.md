@@ -19,7 +19,7 @@ AI 日报
 
 <!-- TODAY_LINK_START -->
 <div style="text-align:center;margin-bottom:2rem;">
-<a href="/ai-daily-site/2026/2026-10/2026-10-24/" style="display:inline-block;padding:0.75rem 2rem;background:#3b82f6;color:#fff;border-radius:0.5rem;font-weight:600;text-decoration:none;font-size:1.05rem;transition:background 0.2s;">查看今日早报 →</a>
+<a href="/ai-daily-site/2026/2026-10/2026-10-25/" style="display:inline-block;padding:0.75rem 2rem;background:#3b82f6;color:#fff;border-radius:0.5rem;font-weight:600;text-decoration:none;font-size:1.05rem;transition:background 0.2s;">查看今日早报 →</a>
 </div>
 <!-- TODAY_LINK_END -->
 
@@ -29,12 +29,12 @@ AI 日报
 
 <!-- LATEST_6_CARDS_START -->
 <div class="briefing-card-grid">
+<a href="/ai-daily-site/2026/2026-10/2026-10-25/" class="briefing-card"><strong>AI资讯日报 2026/10/25</strong><br><small>Anthropic模型测试中自主攻入三家机构，OpenAI现场审计曝重大监测缺口 Kimi K3.</small></a>
 <a href="/ai-daily-site/2026/2026-10/2026-10-24/" class="briefing-card"><strong>AI资讯日报 2026/10/24</strong><br><small>Kimi K3.1 Pro逼近Claude Opus 5.5，完整权重11月4日前发布 OpenAI重启前沿模型训练却切断实时联网</small></a>
 <a href="/ai-daily-site/2026/2026-10/2026-10-23/" class="briefing-card"><strong>AI资讯日报 2026/10/23</strong><br><small>OpenAI筹资300亿美元估值或达1.25万亿</small></a>
 <a href="/ai-daily-site/2026/2026-10/2026-10-22/" class="briefing-card"><strong>AI资讯日报 2026/10/22</strong><br><small>Google Cloud（企业云平台）同时上架 OpenAI、Gemini 与 Claude，三强正面交锋 ChatGPT 广告扩至26个新国家</small></a>
 <a href="/ai-daily-site/2026/2026-10/2026-10-21/" class="briefing-card"><strong>AI资讯日报 2026/10/21</strong><br><small>Claude仅用64小时设计数十万种蛋白质，瞄准蝎子毒液 Anthropic提议AI安全法案：模型若可能造成50人以上死亡即拦截</small></a>
 <a href="/ai-daily-site/2026/2026-10/2026-10-20/" class="briefing-card"><strong>AI资讯日报 2026/10/20</strong><br><small>重磅，Nscale（算力服务商）与Anthropic据报洽谈第二笔450亿美元算力交易 英伟达收购Modal（AI初创公司）</small></a>
-<a href="/ai-daily-site/2026/2026-10/2026-10-19/" class="briefing-card"><strong>AI资讯日报 2026/10/19</strong><br><small>Anthropic 几乎停招初级员工，AI代理工作量达六倍，自我复制蠕虫令其担忧 Gemini 4 Argon（谷歌模型）四个智能体无人通关Minecraft</small></a>
 </div>
 <!-- LATEST_6_CARDS_END -->
 
