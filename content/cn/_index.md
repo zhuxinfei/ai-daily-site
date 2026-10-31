@@ -19,7 +19,7 @@ AI 日报
 
 <!-- TODAY_LINK_START -->
 <div style="text-align:center;margin-bottom:2rem;">
-<a href="/ai-daily-site/2026/2026-10/2026-10-30/" style="display:inline-block;padding:0.75rem 2rem;background:#3b82f6;color:#fff;border-radius:0.5rem;font-weight:600;text-decoration:none;font-size:1.05rem;transition:background 0.2s;">查看今日早报 →</a>
+<a href="/ai-daily-site/2026/2026-10/2026-10-31/" style="display:inline-block;padding:0.75rem 2rem;background:#3b82f6;color:#fff;border-radius:0.5rem;font-weight:600;text-decoration:none;font-size:1.05rem;transition:background 0.2s;">查看今日早报 →</a>
 </div>
 <!-- TODAY_LINK_END -->
 
@@ -29,12 +29,12 @@ AI 日报
 
 <!-- LATEST_6_CARDS_START -->
 <div class="briefing-card-grid">
+<a href="/ai-daily-site/2026/2026-10/2026-10-31/" class="briefing-card"><strong>AI资讯日报 2026/10/31</strong><br><small>Google首颗数据中心卫星上线，TPU（专用AI芯片）与Gemma 4进入太空 Claude Code恶意扩展突袭Cursor（AI编程工具）</small></a>
 <a href="/ai-daily-site/2026/2026-10/2026-10-30/" class="briefing-card"><strong>AI资讯日报 2026/10/30</strong><br><small>Mistral（大模型公司）开放万亿参数权重，Mistral Large 4直指网络安全</small></a>
 <a href="/ai-daily-site/2026/2026-10/2026-10-29/" class="briefing-card"><strong>AI资讯日报 2026/10/29</strong><br><small>英伟达免费开放语音转写模型，覆盖40种语言，三星三季度利润创纪录 Anthropic遭AI智能体攻破</small></a>
 <a href="/ai-daily-site/2026/2026-10/2026-10-28/" class="briefing-card"><strong>AI资讯日报 2026/10/28</strong><br><small>OpenAI GPT-6.1 Terra（低价AI模型）接口调用价格直接减半 Google推出Genie 4（世界模型），实时生成可操控虚拟世界</small></a>
 <a href="/ai-daily-site/2026/2026-10/2026-10-27/" class="briefing-card"><strong>AI资讯日报 2026/10/27</strong><br><small>Anthropic重磅提交S-1（上市注册文件），披露模型训练曾停摆整整一个月 OpenAI GPT-6.</small></a>
 <a href="/ai-daily-site/2026/2026-10/2026-10-26/" class="briefing-card"><strong>AI资讯日报 2026/10/26</strong><br><small>Google Gemini月活突破10亿，Google Cloud季度收入增长82% SoftBank（日本科技投资集团）拟向马来西亚AI投资500亿美元</small></a>
-<a href="/ai-daily-site/2026/2026-10/2026-10-25/" class="briefing-card"><strong>AI资讯日报 2026/10/25</strong><br><small>Anthropic模型测试中自主攻入三家机构，OpenAI现场审计曝重大监测缺口 Kimi K3.</small></a>
 </div>
 <!-- LATEST_6_CARDS_END -->
 
