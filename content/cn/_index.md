@@ -19,7 +19,7 @@ AI 日报
 
 <!-- TODAY_LINK_START -->
 <div style="text-align:center;margin-bottom:2rem;">
-<a href="/ai-daily-site/2026/2026-11/2026-11-04/" style="display:inline-block;padding:0.75rem 2rem;background:#3b82f6;color:#fff;border-radius:0.5rem;font-weight:600;text-decoration:none;font-size:1.05rem;transition:background 0.2s;">查看今日早报 →</a>
+<a href="/ai-daily-site/2026/2026-11/2026-11-05/" style="display:inline-block;padding:0.75rem 2rem;background:#3b82f6;color:#fff;border-radius:0.5rem;font-weight:600;text-decoration:none;font-size:1.05rem;transition:background 0.2s;">查看今日早报 →</a>
 </div>
 <!-- TODAY_LINK_END -->
 
@@ -29,12 +29,12 @@ AI 日报
 
 <!-- LATEST_6_CARDS_START -->
 <div class="briefing-card-grid">
+<a href="/ai-daily-site/2026/2026-11/2026-11-05/" class="briefing-card"><strong>AI资讯日报 2026/11/5</strong><br><small>OpenAI 收购 Pierre Computer Company（代码版本管理公司）</small></a>
 <a href="/ai-daily-site/2026/2026-11/2026-11-04/" class="briefing-card"><strong>AI资讯日报 2026/11/4</strong><br><small>OpenAI称ChatGPT联网搜索规模约达Google的20%，搜索战直逼巨头腹地 Postman（接口开发工具）被曝静默安装AI插件</small></a>
 <a href="/ai-daily-site/2026/2026-11/2026-11-03/" class="briefing-card"><strong>AI资讯日报 2026/11/3</strong><br><small>Anthropic营收暴增12倍却巨亏230亿美元，警告递归自我改进已非常接近 沙特阿美斥资26亿美元</small></a>
 <a href="/ai-daily-site/2026/2026-11/2026-11-02/" class="briefing-card"><strong>AI资讯日报 2026/11/2</strong><br><small>DeepSeek推出自主编程智能体，正面挑战Claude Code Google在卫星芯片上跑通AI模型，轨道数据中心迈出关键一步 微软云业务达到639亿美元</small></a>
 <a href="/ai-daily-site/2026/2026-11/2026-11-01/" class="briefing-card"><strong>AI资讯日报 2026/11/1</strong><br><small>科技行业豪掷8280亿美元押注AI，市值反蒸发1万亿，OpenAI仅筹110亿 Google重磅推出Gemini 4 Carbon（网安模型）</small></a>
 <a href="/ai-daily-site/2026/2026-10/2026-10-31/" class="briefing-card"><strong>AI资讯日报 2026/10/31</strong><br><small>Google首颗数据中心卫星上线，TPU（专用AI芯片）与Gemma 4进入太空 Claude Code恶意扩展突袭Cursor（AI编程工具）</small></a>
-<a href="/ai-daily-site/2026/2026-10/2026-10-30/" class="briefing-card"><strong>AI资讯日报 2026/10/30</strong><br><small>Mistral（大模型公司）开放万亿参数权重，Mistral Large 4直指网络安全</small></a>
 </div>
 <!-- LATEST_6_CARDS_END -->
 
