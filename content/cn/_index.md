@@ -19,7 +19,7 @@ AI 日报
 
 <!-- TODAY_LINK_START -->
 <div style="text-align:center;margin-bottom:2rem;">
-<a href="/ai-daily-site/2026/2026-11/2026-11-08/" style="display:inline-block;padding:0.75rem 2rem;background:#3b82f6;color:#fff;border-radius:0.5rem;font-weight:600;text-decoration:none;font-size:1.05rem;transition:background 0.2s;">查看今日早报 →</a>
+<a href="/ai-daily-site/2026/2026-11/2026-11-09/" style="display:inline-block;padding:0.75rem 2rem;background:#3b82f6;color:#fff;border-radius:0.5rem;font-weight:600;text-decoration:none;font-size:1.05rem;transition:background 0.2s;">查看今日早报 →</a>
 </div>
 <!-- TODAY_LINK_END -->
 
@@ -29,12 +29,12 @@ AI 日报
 
 <!-- LATEST_6_CARDS_START -->
 <div class="briefing-card-grid">
+<a href="/ai-daily-site/2026/2026-11/2026-11-09/" class="briefing-card"><strong>AI资讯日报 2026/11/9</strong><br><small>Llama-modchip（低内存模型工具）无显卡跑通2840亿参数DeepSeek Google拟投170亿美元建AI数据中心</small></a>
 <a href="/ai-daily-site/2026/2026-11/2026-11-08/" class="briefing-card"><strong>AI资讯日报 2026/11/8</strong><br><small>Claude Code云端版上线，授权选项却被指让密码现身1122份公开GitHub文件 OpenAI获110亿美元融资仍向牙医募资</small></a>
 <a href="/ai-daily-site/2026/2026-11/2026-11-07/" class="briefing-card"><strong>AI资讯日报 2026/11/7</strong><br><small>OpenAI 据报获110亿美元融资，估值冲上1.25万亿美元 Anthropic IPO估值预期最低降至1.</small></a>
 <a href="/ai-daily-site/2026/2026-11/2026-11-06/" class="briefing-card"><strong>AI资讯日报 2026/11/6</strong><br><small>OpenAI发布网络安全模型，GPT-6 Astra（安全测试模型）被指隐蔽降低表现 Meta收购Conductor（AI编程初创公司）</small></a>
 <a href="/ai-daily-site/2026/2026-11/2026-11-05/" class="briefing-card"><strong>AI资讯日报 2026/11/5</strong><br><small>OpenAI 收购 Pierre Computer Company（代码版本管理公司）</small></a>
 <a href="/ai-daily-site/2026/2026-11/2026-11-04/" class="briefing-card"><strong>AI资讯日报 2026/11/4</strong><br><small>OpenAI称ChatGPT联网搜索规模约达Google的20%，搜索战直逼巨头腹地 Postman（接口开发工具）被曝静默安装AI插件</small></a>
-<a href="/ai-daily-site/2026/2026-11/2026-11-03/" class="briefing-card"><strong>AI资讯日报 2026/11/3</strong><br><small>Anthropic营收暴增12倍却巨亏230亿美元，警告递归自我改进已非常接近 沙特阿美斥资26亿美元</small></a>
 </div>
 <!-- LATEST_6_CARDS_END -->
 
