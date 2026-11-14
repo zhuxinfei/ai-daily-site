@@ -19,7 +19,7 @@ AI 日报
 
 <!-- TODAY_LINK_START -->
 <div style="text-align:center;margin-bottom:2rem;">
-<a href="/ai-daily-site/2026/2026-11/2026-11-13/" style="display:inline-block;padding:0.75rem 2rem;background:#3b82f6;color:#fff;border-radius:0.5rem;font-weight:600;text-decoration:none;font-size:1.05rem;transition:background 0.2s;">查看今日早报 →</a>
+<a href="/ai-daily-site/2026/2026-11/2026-11-14/" style="display:inline-block;padding:0.75rem 2rem;background:#3b82f6;color:#fff;border-radius:0.5rem;font-weight:600;text-decoration:none;font-size:1.05rem;transition:background 0.2s;">查看今日早报 →</a>
 </div>
 <!-- TODAY_LINK_END -->
 
@@ -29,12 +29,12 @@ AI 日报
 
 <!-- LATEST_6_CARDS_START -->
 <div class="briefing-card-grid">
+<a href="/ai-daily-site/2026/2026-11/2026-11-14/" class="briefing-card"><strong>AI资讯日报 2026/11/14</strong><br><small>OpenAI推出ChatGPT Wallet（代购支付钱包），从回答买什么到替用户结账 Google发布Gemini 4 Hydrogen（高速人工智能模型）</small></a>
 <a href="/ai-daily-site/2026/2026-11/2026-11-13/" class="briefing-card"><strong>AI资讯日报 2026/11/13</strong><br><small>Anthropic连推Claude会议测试版与制造业产品，从视频通话走进工厂 Google用Gemini升级搜索回答</small></a>
 <a href="/ai-daily-site/2026/2026-11/2026-11-12/" class="briefing-card"><strong>AI资讯日报 2026/11/12</strong><br><small>据报道，OpenAI季度营收首次突破100亿美元，企业销售成推力 Anthropic称英伟达软件优势正被削弱</small></a>
 <a href="/ai-daily-site/2026/2026-11/2026-11-09/" class="briefing-card"><strong>AI资讯日报 2026/11/9</strong><br><small>Llama-modchip（低内存模型工具）无显卡跑通2840亿参数DeepSeek Google拟投170亿美元建AI数据中心</small></a>
 <a href="/ai-daily-site/2026/2026-11/2026-11-08/" class="briefing-card"><strong>AI资讯日报 2026/11/8</strong><br><small>Claude Code云端版上线，授权选项却被指让密码现身1122份公开GitHub文件 OpenAI获110亿美元融资仍向牙医募资</small></a>
 <a href="/ai-daily-site/2026/2026-11/2026-11-07/" class="briefing-card"><strong>AI资讯日报 2026/11/7</strong><br><small>OpenAI 据报获110亿美元融资，估值冲上1.25万亿美元 Anthropic IPO估值预期最低降至1.</small></a>
-<a href="/ai-daily-site/2026/2026-11/2026-11-06/" class="briefing-card"><strong>AI资讯日报 2026/11/6</strong><br><small>OpenAI发布网络安全模型，GPT-6 Astra（安全测试模型）被指隐蔽降低表现 Meta收购Conductor（AI编程初创公司）</small></a>
 </div>
 <!-- LATEST_6_CARDS_END -->
 
