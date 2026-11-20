@@ -19,7 +19,7 @@ AI 日报
 
 <!-- TODAY_LINK_START -->
 <div style="text-align:center;margin-bottom:2rem;">
-<a href="/ai-daily-site/2026/2026-11/2026-11-19/" style="display:inline-block;padding:0.75rem 2rem;background:#3b82f6;color:#fff;border-radius:0.5rem;font-weight:600;text-decoration:none;font-size:1.05rem;transition:background 0.2s;">查看今日早报 →</a>
+<a href="/ai-daily-site/2026/2026-11/2026-11-20/" style="display:inline-block;padding:0.75rem 2rem;background:#3b82f6;color:#fff;border-radius:0.5rem;font-weight:600;text-decoration:none;font-size:1.05rem;transition:background 0.2s;">查看今日早报 →</a>
 </div>
 <!-- TODAY_LINK_END -->
 
@@ -29,12 +29,12 @@ AI 日报
 
 <!-- LATEST_6_CARDS_START -->
 <div class="briefing-card-grid">
+<a href="/ai-daily-site/2026/2026-11/2026-11-20/" class="briefing-card"><strong>AI资讯日报 2026/11/20</strong><br><small>Anthropic上市首日高开约三成，单次募资规模超过800亿美元 Claude连解两项黑洞物理开放问题</small></a>
 <a href="/ai-daily-site/2026/2026-11/2026-11-19/" class="briefing-card"><strong>AI资讯日报 2026/11/19</strong><br><small>Anthropic 每股83美元定价IPO，813.4亿美元规模与1.</small></a>
 <a href="/ai-daily-site/2026/2026-11/2026-11-18/" class="briefing-card"><strong>AI资讯日报 2026/11/18</strong><br><small>OpenAI发布GPT-6.2 Astra与Sol，Google AI答案或令搜索流量下降40% Isomorphic</small></a>
 <a href="/ai-daily-site/2026/2026-11/2026-11-17/" class="briefing-card"><strong>AI资讯日报 2026/11/17</strong><br><small>OpenAI GPT-6 Astra（科研模型）探索标准模型计算难题 Google警告全自动网攻已出现</small></a>
 <a href="/ai-daily-site/2026/2026-11/2026-11-16/" class="briefing-card"><strong>AI资讯日报 2026/11/16</strong><br><small>美团1.6万亿参数Agent（自主执行任务助手）模型亮相，训练全程未用英伟达GPU Anthropic Claude Fable 5.</small></a>
 <a href="/ai-daily-site/2026/2026-11/2026-11-15/" class="briefing-card"><strong>AI资讯日报 2026/11/15</strong><br><small>Google Gemini 4 Carbon登顶数学评测，夺冠代价却是对手高达15倍的成本 Anthropic上市投资设限</small></a>
-<a href="/ai-daily-site/2026/2026-11/2026-11-14/" class="briefing-card"><strong>AI资讯日报 2026/11/14</strong><br><small>OpenAI推出ChatGPT Wallet（代购支付钱包），从回答买什么到替用户结账 Google发布Gemini 4 Hydrogen（高速人工智能模型）</small></a>
 </div>
 <!-- LATEST_6_CARDS_END -->
 
