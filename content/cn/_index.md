@@ -19,7 +19,7 @@ AI 日报
 
 <!-- TODAY_LINK_START -->
 <div style="text-align:center;margin-bottom:2rem;">
-<a href="/ai-daily-site/2026/2026-11/2026-11-23/" style="display:inline-block;padding:0.75rem 2rem;background:#3b82f6;color:#fff;border-radius:0.5rem;font-weight:600;text-decoration:none;font-size:1.05rem;transition:background 0.2s;">查看今日早报 →</a>
+<a href="/ai-daily-site/2026/2026-11/2026-11-24/" style="display:inline-block;padding:0.75rem 2rem;background:#3b82f6;color:#fff;border-radius:0.5rem;font-weight:600;text-decoration:none;font-size:1.05rem;transition:background 0.2s;">查看今日早报 →</a>
 </div>
 <!-- TODAY_LINK_END -->
 
@@ -29,12 +29,12 @@ AI 日报
 
 <!-- LATEST_6_CARDS_START -->
 <div class="briefing-card-grid">
+<a href="/ai-daily-site/2026/2026-11/2026-11-24/" class="briefing-card"><strong>AI资讯日报 2026/11/24</strong><br><small>Google搜索接入个人应用，你的应用信息开始影响搜索答案 Anthropic推出Claude Ship（代码修复审批工具），从修复到审核一并覆盖 GLM-5.</small></a>
 <a href="/ai-daily-site/2026/2026-11/2026-11-23/" class="briefing-card"><strong>AI资讯日报 2026/11/23</strong><br><small>亚马逊据报接近以75亿美元收购人工智能初创公司 OpenAI科学家提议为人工智能发展设限，先统一能力衡量标准 Google在助手调用工具前拦截操作</small></a>
 <a href="/ai-daily-site/2026/2026-11/2026-11-22/" class="briefing-card"><strong>AI资讯日报 2026/11/22</strong><br><small>亚马逊接近斥资75亿美元收购Decart（人工智能初创企业），交易尚未敲定 英伟达仅用两万条样例纠错、提升编程成绩</small></a>
 <a href="/ai-daily-site/2026/2026-11/2026-11-21/" class="briefing-card"><strong>AI资讯日报 2026/11/21</strong><br><small>英伟达押注至少5亿美元，借Inception（扩散模型开发商）强化开源模型阵容 Google搜索首页改版</small></a>
 <a href="/ai-daily-site/2026/2026-11/2026-11-20/" class="briefing-card"><strong>AI资讯日报 2026/11/20</strong><br><small>Anthropic上市首日高开约三成，单次募资规模超过800亿美元 Claude连解两项黑洞物理开放问题</small></a>
 <a href="/ai-daily-site/2026/2026-11/2026-11-19/" class="briefing-card"><strong>AI资讯日报 2026/11/19</strong><br><small>Anthropic 每股83美元定价IPO，813.4亿美元规模与1.</small></a>
-<a href="/ai-daily-site/2026/2026-11/2026-11-18/" class="briefing-card"><strong>AI资讯日报 2026/11/18</strong><br><small>OpenAI发布GPT-6.2 Astra与Sol，Google AI答案或令搜索流量下降40% Isomorphic</small></a>
 </div>
 <!-- LATEST_6_CARDS_END -->
 
