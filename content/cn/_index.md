@@ -19,7 +19,7 @@ AI 日报
 
 <!-- TODAY_LINK_START -->
 <div style="text-align:center;margin-bottom:2rem;">
-<a href="/ai-daily-site/2026/2026-11/2026-11-27/" style="display:inline-block;padding:0.75rem 2rem;background:#3b82f6;color:#fff;border-radius:0.5rem;font-weight:600;text-decoration:none;font-size:1.05rem;transition:background 0.2s;">查看今日早报 →</a>
+<a href="/ai-daily-site/2026/2026-11/2026-11-28/" style="display:inline-block;padding:0.75rem 2rem;background:#3b82f6;color:#fff;border-radius:0.5rem;font-weight:600;text-decoration:none;font-size:1.05rem;transition:background 0.2s;">查看今日早报 →</a>
 </div>
 <!-- TODAY_LINK_END -->
 
@@ -29,12 +29,12 @@ AI 日报
 
 <!-- LATEST_6_CARDS_START -->
 <div class="briefing-card-grid">
+<a href="/ai-daily-site/2026/2026-11/2026-11-28/" class="briefing-card"><strong>AI资讯日报 2026/11/28</strong><br><small>OpenAI据报反诉Apple，指控窃取商业秘密，两大巨头对簿公堂 SAP（企业管理软件商）据报考虑大规模裁员</small></a>
 <a href="/ai-daily-site/2026/2026-11/2026-11-27/" class="briefing-card"><strong>AI资讯日报 2026/11/27</strong><br><small>美国收紧出口管制，英伟达暂停向东南亚四国发运服务器 SAP（企业管理软件商）据报考虑裁减至少一万个岗位</small></a>
 <a href="/ai-daily-site/2026/2026-11/2026-11-26/" class="briefing-card"><strong>AI资讯日报 2026/11/26</strong><br><small>Anthropic推出Claude Ship（代码审批工具），代码审查正式交给AI Google DeepMind让智能体参与模型实验</small></a>
 <a href="/ai-daily-site/2026/2026-11/2026-11-25/" class="briefing-card"><strong>AI资讯日报 2026/11/25</strong><br><small>OpenAI GPT-6跨界蛋白质设计，实验发现五个靶点的结合证据 亚马逊收购Decart（软件开发公司）</small></a>
 <a href="/ai-daily-site/2026/2026-11/2026-11-24/" class="briefing-card"><strong>AI资讯日报 2026/11/24</strong><br><small>Google搜索接入个人应用，你的应用信息开始影响搜索答案 Anthropic推出Claude Ship（代码修复审批工具），从修复到审核一并覆盖 GLM-5.</small></a>
 <a href="/ai-daily-site/2026/2026-11/2026-11-23/" class="briefing-card"><strong>AI资讯日报 2026/11/23</strong><br><small>亚马逊据报接近以75亿美元收购人工智能初创公司 OpenAI科学家提议为人工智能发展设限，先统一能力衡量标准 Google在助手调用工具前拦截操作</small></a>
-<a href="/ai-daily-site/2026/2026-11/2026-11-22/" class="briefing-card"><strong>AI资讯日报 2026/11/22</strong><br><small>亚马逊接近斥资75亿美元收购Decart（人工智能初创企业），交易尚未敲定 英伟达仅用两万条样例纠错、提升编程成绩</small></a>
 </div>
 <!-- LATEST_6_CARDS_END -->
 
